@@ -1,0 +1,5235 @@
+29000 29000 1014 1014 1000 1000
+The size of Source Vocab is :  10
+The size of Target Vocab is :  10
+The size of Source Vocab is :  19212
+The size of Target Vocab is :  10838
+
+
+Training : 
+Starting Epoch No : 1
+Sample Output After Epoch No : 1 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann mit einer wabbligen Kochmütze hält eine Gewürzflasche in der Hand, während er über seine Schulter guckt und es so aussieht, als würde er mit dem Mann hinter sich sprechen.
+Target : A man with a floppy chefs hat is holding a condiment bottle while looking over his shoulder as if talking to the man behind him.
+Predicted : A man in a in a a a a a in a in a in a in in a . . a and . a . . .
+
+
+
+2. Source : Das Kleinkind steht auf einem Dreirad.
+Target : The small child is standing on a tricycle.
+Predicted : A man in a in in a . . . . .
+
+
+Epoch No 1 completed. Total Training Loss : 340.88671875
+
+
+Validation : 
+Starting Epoch No : 1
+Sample Output After Epoch No : 1 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Auf einer Bowlingbahn hält ein Mann in einem schwarzen T-Shirt eine Bowlingkugel und blickt die Bahn hinunter.
+Target : At a bowling alley, a man in a black shirt is holding a bowling ball and looking down the lane.
+Predicted : sits green green green green . . man man man
+
+
+
+2. Source : Zwei Jungen spielen ein Murmelspiel.
+Target : Two boys playing a game with marbles.
+Predicted : sits . green . green man man man man man man man man man man man man man man man man man man man man man man man
+
+
+Epoch No 1 completed. Total Training Loss : 365.43475341796875
+
+
+Training : 
+Starting Epoch No : 2
+Sample Output After Epoch No : 2 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Gitarrist spielt, während im Hintergrund welche mit Hula-Hoop-Reifen spielen.
+Target : A guitarist plays while people play with hula - hoops in the background.
+Predicted : A young is in in in in the is and in the street . . . . . . .
+
+
+
+2. Source : Ein kleiner Junge, der von einem Stuhl zum anderen springt.
+Target : A little boy jumping from one chair to another.
+Predicted : A young boy is on a is on a girl . . . . . . .
+
+
+Epoch No 2 completed. Total Training Loss : 222.78128051757812
+
+
+Validation : 
+Starting Epoch No : 2
+Sample Output After Epoch No : 2 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Kickboxerinnen, von denen eine einen lilafarbenen Sport-BH trägt, kämpfen in einer Arena.
+Target : Two female kickboxers, one with a purple sports bra, battle it out in an arena.
+Predicted : sits . blue green green at green green green green green green green green green man man man blue man man man man man man man man man man man man man man
+
+
+
+2. Source : Mann beobachtet eine Frau, die auf dem Gehweg raucht.
+Target : Man looking at a woman that is smoking on the sidewalk.
+Predicted : sits green blue . hut's . . people man man man snapshot man man man man man man man man man man man man man man man man man man man man
+
+
+Epoch No 2 completed. Total Training Loss : 393.3877258300781
+
+
+Training : 
+Starting Epoch No : 3
+Sample Output After Epoch No : 3 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Metzger, der Fisch zum Verkauf auf dem Markt schneidet
+Target : A butcher cutting fish to be sold at the market
+Predicted : A person is at to the the at the camera . . . . . . . . . . . . . . . . . . . . . .
+
+
+
+2. Source : Zwei Männer in Anzügen und Hüten gehen zusammen.
+Target : Two men in suits and hats walk together.
+Predicted : Two men in a and two are . . . . . . . . . . . . . . .
+
+
+Epoch No 3 completed. Total Training Loss : 187.28758239746094
+
+
+Validation : 
+Starting Epoch No : 3
+Sample Output After Epoch No : 3 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Frauen gehen durch den Tiefschnee einen steilen Abhang hinunter.
+Target : Women walking through deep snow and down a steep hill.
+Predicted : sits blue hut at people green green green green green man running man man man man man man man man man man man man man man man man man
+
+
+
+2. Source : Ein kleines Mädchen in einem rosafarbenen Ballettröckchen übt einen Tüchertanz.
+Target : A little girl in a pink tutu practices dancing with scarves.
+Predicted : policeman in porch iced loading in share green green green green green man man man man man man man man man man man man man man man man
+
+
+Epoch No 3 completed. Total Training Loss : 380.84710693359375
+
+
+Training : 
+Starting Epoch No : 4
+Sample Output After Epoch No : 4 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Jockeys dirigieren ihre Pferde bei einem Rennen über ein Hindernis.
+Target : Two jockeys lead their horses over an obstacle during a race.
+Predicted : Two people are their run over a outdoor over a race . . . . . . . . . . . . . . . . . . .
+
+
+
+2. Source : Ein junger Mann grüßt vor einem großen Karatekampf, der in seiner Stadt veranstaltet wird, seine Anhänger.
+Target : A young man greeting his supporters before a big karate fight hosted in his town
+Predicted : A young man is a car in a large large, in in the mouth . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+Epoch No 4 completed. Total Training Loss : 156.4474334716797
+
+
+Validation : 
+Starting Epoch No : 4
+Sample Output After Epoch No : 4 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann mit Rastalocken verstopft sein Ohr, um ein Telefongespräch hören zu können.
+Target : A man with dreadlocks is plugging his ear to hear a phone call.
+Predicted : A in loading reaches in people janitor people people . . Asian of people at man man man man man man man man man man man man man man man man man man
+
+
+
+2. Source : Bunt kostümierte Männer bei einer Aufführung.
+Target : Colorful costumed men in a performance.
+Predicted : under . green crosses for black . chewing man man man man man man man man man man man man man man man man man man man man man man man man man man
+
+
+Epoch No 4 completed. Total Training Loss : 364.14227294921875
+
+
+Training : 
+Starting Epoch No : 5
+Sample Output After Epoch No : 5 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mechaniker in blauer Arbeitskleidung bei der Arbeit.
+Target : A man wearing a blue uniform working on mechanics.
+Predicted : A man in a blue uniform is on a . .
+
+
+
+2. Source : Ein Junge in kurzer Hose lässt sich auf der Straße mit einem Wasserschlauch abspritzen.
+Target : Boy in shorts bathing by hose in the street.
+Predicted : A in shorts getting his his in the street with . . .
+
+
+Epoch No 5 completed. Total Training Loss : 126.75760650634766
+
+
+Validation : 
+Starting Epoch No : 5
+Sample Output After Epoch No : 5 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein älterer Mann interviewt einen anderen in einem Rennanzug.
+Target : One older man interviews another in a racing suit.
+Predicted : A man people green green green of man man man
+
+
+
+2. Source : Da ist ein Mann, der in irgendeine Decke gewickelt ist und einen schneebedeckten Hügel herunterrutscht.
+Target : There is a man wrapped in a blanket of some sort sliding down a hill that is covered in snow.
+Predicted : under suit people life of an hold hold hold of of of green of man man man man man man man man man man man man man
+
+
+Epoch No 5 completed. Total Training Loss : 352.92333984375
+
+
+Training : 
+Starting Epoch No : 6
+Sample Output After Epoch No : 6 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein junges Mädchen leckt einen Teller und hat Kuchen auf ihrem ganzen Gesicht.
+Target : A young girl licks a plate and has cake all over her face.
+Predicted : A young girl is a plate with her her her her her face . . . . . . . . . . . . . . . .
+
+
+
+2. Source : Eine Frau in einem langen Kleid hängt Kleider auf eine Wäschleine.
+Target : A woman in a long dress is hanging clothes on a clothesline.
+Predicted : A woman in a long dress is hanging up on a metal . . . . . . . . . . . . . . . . . .
+
+
+Epoch No 6 completed. Total Training Loss : 108.50389862060547
+
+
+Validation : 
+Starting Epoch No : 6
+Sample Output After Epoch No : 6 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Menschen in einem Laden wählen Produkte zum Kauf aus
+Target : People in a produce store picking produce to buy
+Predicted : sleeping machinery with in machinery saber father lot man man man man man man man man man man man man man man man man man man man man
+
+
+
+2. Source : Eine Frau mit blondem Haar trinkt aus einem Glas.
+Target : A woman with blond - hair is drinking out of a glass.
+Predicted : A woman with with janitor with . . band . . in . man man man man man man man man man man man man man man
+
+
+Epoch No 6 completed. Total Training Loss : 324.6400146484375
+
+
+Training : 
+Starting Epoch No : 7
+Sample Output After Epoch No : 7 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Motorradfahrer fährt auf einem schwarzen Motorrad.
+Target : A motorcycle racer is riding a black motorcycle.
+Predicted : A motorcycle rider rides riding a black motorcycle on . on on on on on on on
+
+
+
+2. Source : Ein Mann in einem roten Hemd und ein Mann in einer blauen Jacke unterhalten sich und zeigen auf eine Stelle an einem kleinen Baum in einem Pflanzkübel.
+Target : A man in a red shirt and a man in a blue jacket discussing and pointing to a spot on a small potted tree.
+Predicted : A man in a red shirt and a man in a blue jacket and a a at a small on a small tree . . in
+
+
+Epoch No 7 completed. Total Training Loss : 95.49776458740234
+
+
+Validation : 
+Starting Epoch No : 7
+Sample Output After Epoch No : 7 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine korpulente Frau trocknet ihr Haar mit einem Föhn und lächelt dabei glücklich
+Target : Heavyset woman blowing her hair with a hair dryer smiling all happy
+Predicted : A woman work a a a a a a of . happy man man man man man man man ramp happy man happy happy man man man man man
+
+
+
+2. Source : Ein Bauarbeiter in einem schwarzen T-Shirt und Jeans stellt seine Leiter auf.
+Target : A construction worker wearing a black shirt and jeans, sets up his ladder.
+Predicted : A and loading on a a a goers goers from table from man man man man man man man man man man man man man man man man
+
+
+Epoch No 7 completed. Total Training Loss : 316.8778076171875
+
+
+Training : 
+Starting Epoch No : 8
+Sample Output After Epoch No : 8 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Frau mit einem blauen Hemd und Kreolen.
+Target : A woman with a blue shirt and hoop earrings.
+Predicted : A woman with a blue shirt and underwater . . . . . . . . . . . . .
+
+
+
+2. Source : Draußen geht eine Frau vorbei, während in der Nähe ein Herr Motorrad fährt.
+Target : A woman walking outside while a gentleman rides on a motorcycle nearby.
+Predicted : A woman is by while a gentleman rides a a motorcycle . . . . . . . .
+
+
+Epoch No 8 completed. Total Training Loss : 86.59835815429688
+
+
+Validation : 
+Starting Epoch No : 8
+Sample Output After Epoch No : 8 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine ältere Frau mit einer blauen Mütze sitzt auf dem Gehweg und hackt etwas Gelbes auf einem Brett neben sich.
+Target : An elderly woman wearing a blue hat is sitting on the sidewalk chopping something yellow on a board beside her.
+Predicted : A paddling woman sweeping red blue hut saber people of of outdoors of young . . of four . . . man man man man man man man man man man.
+
+
+
+2. Source : Ein Mann übt Seilspringen, während ihm eine Menschenmenge dabei zusieht.
+Target : A man jumps rope while a crowd of people watch him.
+Predicted : A man in a a a green green stands . . . man man man man man man man man man man man man man man man man man man man man
+
+
+Epoch No 8 completed. Total Training Loss : 291.6727600097656
+
+
+Training : 
+Starting Epoch No : 9
+Sample Output After Epoch No : 9 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Leute genießen das kalte Wasser eines Springbrunnens an einem heißen Tag.
+Target : People enjoying the cool water from the fountain in a hot day.
+Predicted : People enjoy the cold water on a opposing on a hot day . .
+
+
+
+2. Source : Ein Mann in neongrüner Kleidung schiebt einen grünen Karren die Straße entlang.
+Target : A man in neon green clothing pushes a green cart down the street.
+Predicted : A man in green green is is a green cart along the street . . . . . .
+
+
+Epoch No 9 completed. Total Training Loss : 78.25297546386719
+
+
+Validation : 
+Starting Epoch No : 9
+Sample Output After Epoch No : 9 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein weißer Hund mit braunen Flecken springt vom Ufer aus in das Wasser.
+Target : A white dog with brown marks jumps from the bank into the water.
+Predicted : A at construction . janitor with is people reflecting . . mouth . . man man man man . . . . . . man . . . .
+
+
+
+2. Source : Kinder fahren in einem Kettenkarussell
+Target : Kids are riding a swinging carnival ride
+Predicted : sits four loading red four man young man man man man man man man four four four four four four four four four four four four four four man man four
+
+
+Epoch No 9 completed. Total Training Loss : 282.7824401855469
+
+
+Training : 
+Starting Epoch No : 10
+Sample Output After Epoch No : 10 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Drei Baseball-Spieler in Bewegung; einer gleitet auf ein Base, ein weiterer läuft im Hintergrund.
+Target : Three baseball players in motion; one sliding into a base, another running in the background.
+Predicted : Three baseball players, Seattle, one is a a base, while is in the background . . . . . . . . .
+
+
+
+2. Source : Ein Mädchen in Weiß spielt Tennis.
+Target : A girl in white is playing tennis.
+Predicted : A girl in white is playing tennis . tennis tennis tennis tennis tennis
+
+
+Epoch No 10 completed. Total Training Loss : 72.916259765625
+
+
+Validation : 
+Starting Epoch No : 10
+Sample Output After Epoch No : 10 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Frau wirft einem Hund eine Frisbeescheibe zu, während ihr ein Baseballspieler in Spielkleidung hinterherläuft.
+Target : A woman thows a Frisbee to a dog as a baseball player in uniform runs behind her.
+Predicted : A woman in a in a a green match a with a a a the a with . man man man man man man man . . in . man man man
+
+
+
+2. Source : Zwei Männer gehen einen unbefestigten Weg entlang.
+Target : Two men walking down a dirt path.
+Predicted : along men men in . . in . . . . . . . . . . . . . . . . . . green green green . . green green
+
+
+Epoch No 10 completed. Total Training Loss : 254.72906494140625
+
+
+Training : 
+Starting Epoch No : 11
+Sample Output After Epoch No : 11 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann klettert einen Felsen hoch.
+Target : A man climbs up a rock.
+Predicted : A man is a a rock . . . . . . . . .
+
+
+
+2. Source : Ein Angestellter der Müllabfuhr arbeitet jeden Tag hart.
+Target : Man on trash truck working hard for day.
+Predicted : A working skateboard repairs working on at work . . . . . . . . . .
+
+
+Epoch No 11 completed. Total Training Loss : 69.29840087890625
+
+
+Validation : 
+Starting Epoch No : 11
+Sample Output After Epoch No : 11 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+Target : Two men setting up a blue ice fishing hut on an iced over lake
+Predicted : along ice in blue of small an an takes an cotton cotton trying man trying man man man man man man man man man man man man man man
+
+
+
+2. Source : Zwei Männer hinter einer kreisförmigen Bar in einem Raum voll mit Menschen.
+Target : Two men behind a circular bar in a room filled with people.
+Predicted : sits . are down are in in stands in on . green . man man man man man man man on on on on . . man man
+
+
+Epoch No 11 completed. Total Training Loss : 274.56634521484375
+
+
+Training : 
+Starting Epoch No : 12
+Sample Output After Epoch No : 12 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann mit einer rosa Kamera macht ein Foto von einem Rockkonzert.
+Target : A man with a pink camera taking a picture of a rock concert.
+Predicted : A man with a pink camera taking a picture of a concert concert . . . . . . . . . . .
+
+
+
+2. Source : Die Hochzeitsgäste der Braut.
+Target : The bride's side of a wedding party.
+Predicted : The street's bride of the bride . . . . . . . . .'s 's's .'s .'s 's
+
+
+Epoch No 12 completed. Total Training Loss : 65.96626281738281
+
+
+Validation : 
+Starting Epoch No : 12
+Sample Output After Epoch No : 12 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Eishockeyspieler sind bereit für das Spiel, während der Schiri neben ihnen im Begriff ist, den Puck zu werfen.
+Target : Two hockey players ready to start the game with the ref by them about to drop the puck.
+Predicted : along women people women to a a a a a a a a a middle a a a . . . . . . . . . . . . . . . man
+
+
+
+2. Source : Ein Mann fotografiert weiße und gelbe Tulpen.
+Target : A man takes pictures of white and yellow tulips.
+Predicted : A man is is and a and a . and . . . . . and and and and and and and and and and and and and and and and and . and
+
+
+Epoch No 12 completed. Total Training Loss : 239.4827117919922
+
+
+Training : 
+Starting Epoch No : 13
+Sample Output After Epoch No : 13 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mädchen in einem Blumenkleid rennt im Sand.
+Target : A girl in a flower dress is running on sand.
+Predicted : A girl in a floral dress is running in sand . . . . . . . . . . . .
+
+
+
+2. Source : Männer sitzen auf Stufen, als eine Frau vorbei geht.
+Target : Men are sitting on stairs as a woman walks by.
+Predicted : Men sitting sitting on steps as a woman walks by . . . . . . . . . . . . . .
+
+
+Epoch No 13 completed. Total Training Loss : 63.21161651611328
+
+
+Validation : 
+Starting Epoch No : 13
+Sample Output After Epoch No : 13 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Multikulturelle Gruppe von Erwachsenen bei einer Zusammenkunft, ein Mann mit einer Tätowierung wirft etwas.
+Target : Multicultural group of adults at a gathering, one man with tattoos is throwing something.
+Predicted : sits group of dirt at hat brick balding four man green . . Some . short man man man man man man man man man man man man
+
+
+
+2. Source : Ein junger Mann trägt etwas in einem großen schwarzen Plastikmüllsack.
+Target : A young man is carrying something in a large black plastic garbage bag.
+Predicted : Several four man short four four takes four . man . man man man man man man man man man man man
+
+
+Epoch No 13 completed. Total Training Loss : 305.8675231933594
+
+
+Training : 
+Starting Epoch No : 14
+Sample Output After Epoch No : 14 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Jungen posieren in blauen Hemden und khakifarbenen Shorts.
+Target : Two boys posing in blue shirts and khaki shorts.
+Predicted : Two boys posing in blue shirts and khaki shorts . . . . .
+
+
+
+2. Source : Ein Mann mit roter Badehose steht im Schnee auf einer Klippe über dem Wasser.
+Target : A man in red swimming trunks stands in the snow on a cliff above the water.
+Predicted : A man in red swim trunks is in the snow on a cliff . the water . . .
+
+
+Epoch No 14 completed. Total Training Loss : 62.5279655456543
+
+
+Validation : 
+Starting Epoch No : 14
+Sample Output After Epoch No : 14 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Mehrere Menschen stehen um einen Behälter, in dem ein Mann einen braunen Gegenstand bearbeitet.
+Target : Several people standing around a bowl, in which one man is manipulating a brown object.
+Predicted : sits people are in green go green and green face green . with beret . man man man man man man man man man man.
+
+
+
+2. Source : Zwei indische Kinder in formeller Tracht führen fröhlich einen rituellen Tanz auf.
+Target : Two Indian children in formal costume happily performing a ritual dance.
+Predicted : sits children children are periods car station performing green street . . . man man man . . man . man . . cotton . . . man
+
+
+Epoch No 14 completed. Total Training Loss : 240.9202117919922
+
+
+Training : 
+Starting Epoch No : 15
+Sample Output After Epoch No : 15 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Junge schlägt seinen Tennisschläger gegen einen Tennisball.
+Target : A boy swings his tennis racket at a tennis ball.
+Predicted : A boy is his tennis racket at a tennis ball . . . . . . . .
+
+
+
+2. Source : Dies ist ein Kind in einer verschneiten Landschaft, das mit dem Schlitten einen Hügel hinunterfährt.
+Target : This is a child in a snowy landscape sledding down a hill.
+Predicted : This is a child, a snowy landscape carrying down a dirt . . .
+
+
+Epoch No 15 completed. Total Training Loss : 62.29177474975586
+
+
+Validation : 
+Starting Epoch No : 15
+Sample Output After Epoch No : 15 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Wasserfahrzeuge, von denen eines rot und das andere weiß ist, wirbeln eine Menge Spritzwasser auf.
+Target : Two watercrafts, one red and one white, are making a big splash in the water.
+Predicted : Two life young one four life beard beard a one takes,, in in of on ., man man man man race on race race race at at man man man at
+
+
+
+2. Source : Zwei Menschen stehen vor einem Gebäude.
+Target : Two people stand in front of a building.
+Predicted : along people are at a loading a blue . man man man man man people . at . at man old loading . trying loading . man loading at . man in man loading
+
+
+Epoch No 15 completed. Total Training Loss : 224.9203643798828
+
+
+Training : 
+Starting Epoch No : 16
+Sample Output After Epoch No : 16 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Mädchen in blauem Pullover mit einem bunten Spielzeug in der Hand sitzt auf den Schultern eines grauhaarigen Mannes.
+Target : Girl in blue sweater and holding a multicolor toy sitting on the shoulders of a man with gray hair.
+Predicted : Girls with blue sweater holding holding a toy of in on the shoulders of a man with a hair.
+
+
+
+2. Source : Ein asiatisch aussehender Mann trägt einen Kimono und trainiert mit einem Kollegen seinen Kampfsport.
+Target : An asian man is wearing a kimono while practicing his martial arts with a fellow colleague.
+Predicted : An Asian man is wearing a kimono while practicing his martial arts arts a fellow colleague . . . .
+
+
+Epoch No 16 completed. Total Training Loss : 61.371665954589844
+
+
+Validation : 
+Starting Epoch No : 16
+Sample Output After Epoch No : 16 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Gruppe von Mädchen spielt in einem Springbrunnen in der Sonne.
+Target : A group of girls are playing in a water fountain in the sun.
+Predicted : A group dirt men are are of a shovel . . the street . man man man man man man man man man man man man man man
+
+
+
+2. Source : Eine Frau in einer blauen Bluse und Jeans wirft etwas in einen Müllcontainer.
+Target : A woman in a blue shirt and jeans is throwing something away in a dumpster.
+Predicted : A young and a black shirt is is is a . . . a rock . man man man man man man man man man man man man
+
+
+Epoch No 16 completed. Total Training Loss : 224.9247589111328
+
+
+Training : 
+Starting Epoch No : 17
+Sample Output After Epoch No : 17 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Mehrere Motorradfahrer sitzen auf einer Straße auf ihren Motorrädern.
+Target : A group of motorcyclists sit on their bikes on a street.
+Predicted : A group of motorcyclist sit on the bicycles on a road . . . .
+
+
+
+2. Source : Eine Frau in einem rot-schwarz-gestreiften Oberteil sitzt auf einer Stützmauer.
+Target : A lady in a red and black striped shirt is sitting on a retaining wall.
+Predicted : A woman in a black and white shirt shirt is sitting on a rope wall . . .
+
+
+Epoch No 17 completed. Total Training Loss : 61.32810592651367
+
+
+Validation : 
+Starting Epoch No : 17
+Sample Output After Epoch No : 17 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann trägt ein Kind auf seinen Schultern, während um ihn herum Menschen gehen.
+Target : A man holds a child on his shoulders as a people walk around him.
+Predicted : Man man with table is a skateboard is an brick rugs in a . in man in man in
+
+
+
+2. Source : Zwei Jugendliche gehen eine abschüssige Straße hinunter.
+Target : Two youths walk down an inclined street.
+Predicted : along people of putting red red . red plays plays than plays dancing bluish plays plays red red red plays plays plays red red red plays red red plays red
+
+
+Epoch No 17 completed. Total Training Loss : 236.30282592773438
+
+
+Training : 
+Starting Epoch No : 18
+Sample Output After Epoch No : 18 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Paar tut vor einer Tür mit ausgeschnittenen Fischen so, als ob sie schwimmen würden.
+Target : A couple acting like they are swimming in front of a fish cutout door.
+Predicted : A couple of like fish fish swimming in front of a fish as of . . . .
+
+
+
+2. Source : Ein rot und ein gelb gekleideter Fußballspieler kämpfen um den Fußball.
+Target : Two soccer players, one in red and the other in yellow, battle for a soccer ball.
+Predicted : A soccer players, and in red and yellow soccer red red, compete for a soccer ball . . . . . .
+
+
+Epoch No 18 completed. Total Training Loss : 62.02865219116211
+
+
+Validation : 
+Starting Epoch No : 18
+Sample Output After Epoch No : 18 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Drei weiße Männer in T-Shirts springen in die Luft.
+Target : Three white men in t - shirt jump into the air.
+Predicted : Three in dog t in down shirt jagged at . air man man man man man man man man man man man man man man man man 4 4 man
+
+
+
+2. Source : Ein Hund geht durch eine seichte Wasseransammlung, die sich an einem felsigen Berghang befindet.
+Target : A dog treads through a shallow area of water located on a rocky mountainside.
+Predicted : A young . a at also green . . . . the boxing . . . . . . . . . . . . . . 4 4 4 4
+
+
+Epoch No 18 completed. Total Training Loss : 230.4965362548828
+
+
+Training : 
+Starting Epoch No : 19
+Sample Output After Epoch No : 19 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Mädchen in Kostümen sitzen auf dem Gehweg.
+Target : Two girls in costumes sit on a sidewalk.
+Predicted : Two girls in costumes sit on the sidewalk . . . . . . on . .
+
+
+
+2. Source : Eine Gruppe von Kindern auf einem Karussell spielt im Park.
+Target : A group of kids on a merry - go - round, playing at the park.
+Predicted : A group of kids are a merry - round - round, playing in a park . . . . . . . . . . . . .
+
+
+Epoch No 19 completed. Total Training Loss : 63.59257888793945
+
+
+Validation : 
+Starting Epoch No : 19
+Sample Output After Epoch No : 19 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Typ grindet eine Fensterbank in der Nähe einer alten Windmühle entlang
+Target : A guy grinds a windowsill near an old windmill
+Predicted : A shovel reaches using using loading an janitor man man over man over a over a in a down a a a man a down man a man a a
+
+
+
+2. Source : Eine Gruppe von Menschen läuft bei einem Marathon im Winter.
+Target : A group of people running a marathon in the winter.
+Predicted : A group of people engaged of red . a baseball . man man man man man man man man man man man man man man man man man man
+
+
+Epoch No 19 completed. Total Training Loss : 223.61170959472656
+
+
+Training : 
+Starting Epoch No : 20
+Sample Output After Epoch No : 20 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein glückliches junges Paar trinkt ein Glas Wein und redet.
+Target : A happy young couple having a glass of whine and talking.
+Predicted : A happy couple couple of a glass and wine and talking . . . . .
+
+
+
+2. Source : Ein Mann mit langen dunklen Haaren und Schnurrbart geht in kurzen Hosen und Cowboyhut die Straße entlang.
+Target : Man with long dark hair and mustache walks down the street in shorts and cowboy hat.
+Predicted : A with long mustache hair and short and down the street with a and a shorts . . . . . . chair . . . . . . .
+
+
+Epoch No 20 completed. Total Training Loss : 62.84676742553711
+
+
+Validation : 
+Starting Epoch No : 20
+Sample Output After Epoch No : 20 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Menschen essen Hamburger auf Gartenstühlen, während ein dritter eine Dose Limonade trinkt.
+Target : Two people eat hamburgers on lawn chairs while a third drinks a can of soda.
+Predicted : sits men are at on their green while on picture on . train . . man man man man man man man man man man man man man man man
+
+
+
+2. Source : Ein Kieferorthopäde arbeitet an einem Patienten, während ein Mann die Lampe hält.
+Target : An orthodontist working on a patient, while a man holds the light.
+Predicted : A A who on jagged blue people . walking train . . . . . . . . . . . man . . . .
+
+
+Epoch No 20 completed. Total Training Loss : 229.89845275878906
+
+
+Training : 
+Starting Epoch No : 21
+Sample Output After Epoch No : 21 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Läufer in Schwarz kommt an einem Blumenladen im Freien vorbei.
+Target : A runner in black is passing an outdoor florist shop.
+Predicted : A runner in black looks coming by outdoor flower shop . . . . . . . . . . . .
+
+
+
+2. Source : Ein älterer Mann fährt Fahrrad und hat einen blauen Wäschebehälter voll mit Kleidung auf dem Lenker.
+Target : An older man is riding a bike with a blue laundry hamper full of clothes on his handlebars.
+Predicted : An older man is riding a bicycle and a blue bicycle basket full of a on his bike . . truck . . . . . . . truck . . . . . . .
+
+
+Epoch No 21 completed. Total Training Loss : 62.21109390258789
+
+
+Validation : 
+Starting Epoch No : 21
+Sample Output After Epoch No : 21 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Jungen bereiten ein kleines Segelboot vor, während ihnen zwei Mädchen vom Strand aus dabei zusehen.
+Target : Two boys prepare a small sailboat as two girls watch them from the beach.
+Predicted : sits women women a one short one one girls ball tricks ball covered beach and man man man man man man man man man man and man man
+
+
+
+2. Source : Ein Typ macht ein Fahrradkunststück in einem Park.
+Target : A guy is doing a bike trick in a park.
+Predicted : sits black older a in a a in a black . man man man man man man man man man . man man man man man man man man
+
+
+Epoch No 21 completed. Total Training Loss : 228.69528198242188
+
+
+Training : 
+Starting Epoch No : 22
+Sample Output After Epoch No : 22 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Viele Menschen auf einer Party.
+Target : A large group of people at a party.
+Predicted : Many few group of people at a party . . . . . . . . . . . . . .
+
+
+
+2. Source : Fünf Sänger, drei Frauen und zwei Männer, sind auf einer Bühne.
+Target : There are five singers on a stage, three women and two men.
+Predicted : Five are three three on stage stage and two men and two men on . . . . . . . . . . . . .
+
+
+Epoch No 22 completed. Total Training Loss : 61.743961334228516
+
+
+Validation : 
+Starting Epoch No : 22
+Sample Output After Epoch No : 22 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Frau mit zwei Medaillen um den Hals hält sieben Finger nach oben.
+Target : Woman with two medals around her neck, holding up seven fingers.
+Predicted : sits is green people at goers neck . looking during his his . man man man man man man man man man during man player player player player player man man man man man
+
+
+
+2. Source : Mädchen in schwarzen Bikinis spielen Beachvolleyball.
+Target : Girls in black bikinis playing beach volleyball.
+Predicted : sits loading loading for jeans volleyball . . man man man man man man man man . . man man man . man man man man man man man man man man . man
+
+
+Epoch No 22 completed. Total Training Loss : 231.86534118652344
+
+
+Training : 
+Starting Epoch No : 23
+Sample Output After Epoch No : 23 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Gruppe von Leuten steht bei einem Baum und spielt auf Instrumenten.
+Target : A group of people stand near a tree playing instruments.
+Predicted : A group of people are in a tree playing instruments . . . . . . .
+
+
+
+2. Source : Ein schlafendes kleines Kind hält ein Plüschtier.
+Target : A small child sleeps while holding a stuffed animal.
+Predicted : A small child asleep while holding a stuffed animal . . . . . . . . . . . . .
+
+
+Epoch No 23 completed. Total Training Loss : 62.12389373779297
+
+
+Validation : 
+Starting Epoch No : 23
+Sample Output After Epoch No : 23 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein junger Mann fährt mit dem Skateboard auf einer Betonsteinmauer.
+Target : A young man is skateboarding on a cement block wall.
+Predicted : A man man playing the the blue the York the the man man man the the the the the the the the the the the the man the
+
+
+
+2. Source : Eine Gruppe von Kindern saß herum und spielte auf ihren Instrumenten.
+Target : A group of kids sat around and played their instruments.
+Predicted : A group of a standing around the neck the playing . man man man man man man man man man man man man man man man man man man man man man
+
+
+Epoch No 23 completed. Total Training Loss : 208.80813598632812
+
+
+Training : 
+Starting Epoch No : 24
+Sample Output After Epoch No : 24 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein BMX-Fahrer in der Luft nach einem Sprung von einem Erdhügel in einem Wald.
+Target : A BMX biker in the air, following a jump off of a constructed dirt hill in a forest setting.
+Predicted : A BMX biker in the middle after doing a pile in a a constructed dirt hill in the forest . . . . .
+
+
+
+2. Source : Zwei Kinder spielen mit Babypuppen während Erwachsene sie beobachten.
+Target : Two children are playing with baby dolls while adults watch them.
+Predicted : Two children play playing with arm dolls while adults watch them . . . . . . . . . . . . . . . .
+
+
+Epoch No 24 completed. Total Training Loss : 62.5812873840332
+
+
+Validation : 
+Starting Epoch No : 24
+Sample Output After Epoch No : 24 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Menschen in einer Schlange machen sich bereit, um in einen Bus zu steigen.
+Target : People in line getting ready to board a bus.
+Predicted : People bite a green . to green person green . at at at at green Two green Two green at . at at at green green green Two at backpackers at at green green
+
+
+
+2. Source : Drei Menschen spielen Musikinstrumente und eine andere Person sieht so aus, als ob sie singen würde.
+Target : There are 3 people playing musical instrument and one other person looks like she is singing.
+Predicted : There in in run look musical an . red life walking . traditional she . sitting . man man man man man man man man man man man man man man man man man
+
+
+Epoch No 24 completed. Total Training Loss : 244.17352294921875
+
+
+Training : 
+Starting Epoch No : 25
+Sample Output After Epoch No : 25 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Demonstranten warten darauf, dass Polizisten ihre Beschwerden gegen Polizeigewalt und Brutalität aufnehmen.
+Target : Demonstrators waiting for the policemen to hear their grievances against police oppression and brutality.
+Predicted : Fast waiting for the backs, hear their respective against police, and wife . . . . . . . . . . . . . .
+
+
+
+2. Source : Ein Mann im roten Hemd auf einer Kanzel spricht in ein Mikrofon.
+Target : A man in a red shirt speaking from a pulpit with a Mac.
+Predicted : A man in a red shirt talks from a pulpit with a Mac . . . . . . . . . . . . . . .
+
+
+Epoch No 25 completed. Total Training Loss : 63.62080001831055
+
+
+Validation : 
+Starting Epoch No : 25
+Sample Output After Epoch No : 25 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Gruppe von Menschen hört einem Mann im Freien beim Sprechen zu.
+Target : A group of people listening to a man talking outside.
+Predicted : A group of people are to a man a a . a . to to to to to to to to to to to to to to to.
+
+
+
+2. Source : Ein Mann zieht Gegenstände auf einem Wagen.
+Target : A man pulling items on a cart.
+Predicted : A man a in a wall a . . . in in in in in in in in in in . . in in . in in in in
+
+
+Epoch No 25 completed. Total Training Loss : 184.39022827148438
+
+
+Training : 
+Starting Epoch No : 26
+Sample Output After Epoch No : 26 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Jogger laufen während eines Rennens eine Landstraße hinunter.
+Target : Joggers running down a rural road in a race.
+Predicted : Kids running down a country road during a country . . . country
+
+
+
+2. Source : Zwei Frauen schaukeln in einem Fahrgeschäft.
+Target : Two women are swinging on a ride.
+Predicted : Two women are swinging in a ride . . . . .
+
+
+Epoch No 26 completed. Total Training Loss : 61.86774444580078
+
+
+Validation : 
+Starting Epoch No : 26
+Sample Output After Epoch No : 26 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein schwarzer Pudel spielt mit einem anderen Hund auf einem ausgedörrten Feld.
+Target : A black poodle plays with another dog in a dry field.
+Predicted : A black collar . hot blue holds . the dry below loading green man man man man man waists man man man man man man green green green man green man man man man
+
+
+
+2. Source : Menschen auf der Straße bei einem Straßenfest.
+Target : People on the street at a block party.
+Predicted : People on an street at . snowbank York . man man man man man man man man man man man man man man man man man man man man
+
+
+Epoch No 26 completed. Total Training Loss : 245.47689819335938
+
+
+Training : 
+Starting Epoch No : 27
+Sample Output After Epoch No : 27 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Snowboarder wirbelt Schnee unter einem Baum auf einem Berg auf.
+Target : A snowboarder kicking up snow under a tree on a mountain.
+Predicted : A snowboarder catches a snow under a tree on a mountain . . . . . . .
+
+
+
+2. Source : Mehrere Männer, die auf roten Stühlen sitzen.
+Target : A group of men sitting on red chairs.
+Predicted : Several group of men sitting on red chairs . . . . .
+
+
+Epoch No 27 completed. Total Training Loss : 61.01723861694336
+
+
+Validation : 
+Starting Epoch No : 27
+Sample Output After Epoch No : 27 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Tänzer in einem roten Anzug springt in die Luft.
+Target : A dancer in a red suit is jumping in the air.
+Predicted : A young in a red . son off off the air . in in in in in and lap lap . high man high tree lap lap
+
+
+
+2. Source : Eine große Gruppe von Menschen sieht einem Künstler auf einer Bühne zu.
+Target : A large group of people watching a performer on a stage.
+Predicted : A group group of people in a yellow in the yellow . as green as green green green at at green green at green at at at
+
+
+Epoch No 27 completed. Total Training Loss : 185.79257202148438
+
+
+Training : 
+Starting Epoch No : 28
+Sample Output After Epoch No : 28 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein weißer Hund hat einen weißen Stock im Maul, während er durch den Schnee läuft.
+Target : A white dog holds a stick in its mouth while it runs through snow.
+Predicted : A white dog has a stick in the mouth while walking in in snow . in in in in in . in in in in in
+
+
+
+2. Source : Eine Gruppe von Kindern sitzt auf dem Boden vor einer Ziegelwand, während eine Frau sie beobachtet.
+Target : A group of children sit on the floor against a brick wall while a woman observes them.
+Predicted : A group of people are on the floor in a stone wall while a woman looks sit watches . . . . . . . . . .
+
+
+Epoch No 28 completed. Total Training Loss : 60.76185989379883
+
+
+Validation : 
+Starting Epoch No : 28
+Sample Output After Epoch No : 28 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Junge Erwachsene in einer geraden Linie, die rote, gelbe und schwarze T-Shirts tragen, führen einen Sketch auf.
+Target : Young adults wearing red, yellow, and black shirts in a straight line perform a sketch.
+Predicted : young Some a . sweeping . and snapshot young . a red their talking . busy . man man man man man man man man man man man man
+
+
+
+2. Source : Eine Frau und ein Kind reiten auf Kamelen am Meer.
+Target : A woman and child riding camels near the ocean.
+Predicted : A woman is tank across a a a mud . rides a a a a a rides a rides rides . rides a a a a a a a
+
+
+Epoch No 28 completed. Total Training Loss : 186.6988525390625
+
+
+Training : 
+Starting Epoch No : 29
+Sample Output After Epoch No : 29 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Dame mit Schildkappe lernt von einer Lehrerin wie man Stoff webt.
+Target : A lady wearing a ball cap learns to weave cloth from a lady instructor.
+Predicted : A lady wearing a ball cap learns to weave cloth off a lady instructor . . . . . . . . . . . .
+
+
+
+2. Source : Eine schwarze Limousine ist neben einem überfüllten Treppenhaus geparkt.
+Target : A black limo is parked next to a crowded staircase.
+Predicted : A black limo is parked next to a crowded staircase . . . by . . . . . . . next . .
+
+
+Epoch No 29 completed. Total Training Loss : 60.614959716796875
+
+
+Validation : 
+Starting Epoch No : 29
+Sample Output After Epoch No : 29 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein männlicher Teenager vollführt Kunststücke auf einem Fahrrad.
+Target : A teenage boy on a bicycle does tricks.
+Predicted : A young through through the marathon on on on in while on across across . across as on the the the the the as the as the man the the
+
+
+
+2. Source : Zwei Kinder tanzen bei einer Tanzaufführung.
+Target : Two kids dancing at a dance recital.
+Predicted : sits dogs of at from brick while while high brick man man man hats man man man man hats man man man man man man man man man man man
+
+
+Epoch No 29 completed. Total Training Loss : 178.3856964111328
+
+
+Training : 
+Starting Epoch No : 30
+Sample Output After Epoch No : 30 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Männer sehen sich die Vorderseite eines Schneeräumfahrzeugs an.
+Target : Two men are looking at the front of a snow shoveling machine.
+Predicted : Two men are standing at the front of a stone . machine . . . . . .
+
+
+
+2. Source : Zwei Männer unterhalten sich vor einem British-Airways-Flugzeug.
+Target : Two men stand conversing in front of a British Airways airplane.
+Predicted : Two men are together with front of a mini Airways automobile . van . .
+
+
+Epoch No 30 completed. Total Training Loss : 61.10466766357422
+
+
+Validation : 
+Starting Epoch No : 30
+Sample Output After Epoch No : 30 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Da ist ein Café an einer Straßenecke mit einer ovalen Malerei am Eck des Gebäudes.
+Target : There is a cafe on a street corner with an oval painting on the corner of its building.
+Predicted : There are a dog with a building . of a . semi of a uniform . a . . man man man man man saber man man man
+
+
+
+2. Source : Zwei Frauen in blauen Anzügen sitzen draußen auf dem Beton, während sich hinter ihnen Beton und längliche Glasfenster befinden.
+Target : Two women in blue suits are sitting on the cement outdoors with concrete and long shaped glass windows behind them.
+Predicted : along . are a green in sitting on a, . . green . blue . at something them . man man man man man man man
+
+
+Epoch No 30 completed. Total Training Loss : 187.23934936523438
+
+
+Training : 
+Starting Epoch No : 31
+Sample Output After Epoch No : 31 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Militärangehörige mit riesigen Scheren stehen unter einem „ Grand Opening“-Schild.
+Target : Military personnel with giant scissors standing under a' Grand Opening' sign.
+Predicted : Military personnel with giant scissors around under a sign sign Opening' sign . . . . . . .
+
+
+
+2. Source : Eine Person verquirlt Eier mit einem Handmixer.
+Target : Someone is whisking eggs with a handheld mixer.
+Predicted : A is rubbing eggs with a handheld mixer . cart . . . . . . . . . . . . . . . .
+
+
+Epoch No 31 completed. Total Training Loss : 58.41177749633789
+
+
+Validation : 
+Starting Epoch No : 31
+Sample Output After Epoch No : 31 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Chinesen stehen an einer Wandtafel.
+Target : Two chinese people are standing by a chalkboard.
+Predicted : Two dogs people children standing with the third stands man man man man man man man man man man man man man man man man man man man man man
+
+
+
+2. Source : Eine Frau spielt ein Lied auf ihrer Geige.
+Target : A female playing a song on her violin.
+Predicted : A female in on green plays the computer on and and and and man and and and the and and Fez playing and watch watch and shirt man and green
+
+
+Epoch No 31 completed. Total Training Loss : 196.8073272705078
+
+
+Training : 
+Starting Epoch No : 32
+Sample Output After Epoch No : 32 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Drei Frauen, die traditionelle Kleidung tragen, legen letzte Hand an ihre Kleidung.
+Target : Three women wearing traditional apparel make the final touches on their clothing.
+Predicted : Three women wearing traditional clothing . their final touches on their final . . . . . . . . .
+
+
+
+2. Source : Eine ältere Frau und ein junger Mann spielen Bingo.
+Target : An older woman and a young man play bingo.
+Predicted : An older man and a young man playing bingo . . . . . . . . . . . . . . . . . . . .
+
+
+Epoch No 32 completed. Total Training Loss : 57.9932861328125
+
+
+Validation : 
+Starting Epoch No : 32
+Sample Output After Epoch No : 32 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann blickt auf einen seiner vier Flachbildschirm-Computer.
+Target : A man is looking at one of his four flat screen computers.
+Predicted : A man is doing on a in a way the his . . race race . race . . race race . race race . . on . . .
+
+
+
+2. Source : Ein Mädchen mit blauen Rastalocken sitzt am Straßenrand.
+Target : A girl with blue dreadlocks is sitting on the side of the road.
+Predicted : sits girl in a in is standing on a water of a water man man man man man man man man man man man man man man man man man man man man man
+
+
+Epoch No 32 completed. Total Training Loss : 161.30381774902344
+
+
+Training : 
+Starting Epoch No : 33
+Sample Output After Epoch No : 33 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Mutter hält ihren im Schulalter befindlichen Sohn im Arm.
+Target : A mother cradles her school - aged son in her arms.
+Predicted : A mother is her school - aged son with her arms . . . .
+
+
+
+2. Source : Ein Mann in einem Astro-Boy-T-Shirt mit Baseballkappe reinigt einen Pool.
+Target : A man wearing an Astro Boy t - shirt and wearing a baseball hat is cleaning a pool.
+Predicted : A man in an office Boy t - shirt is baseball a baseball cap is cleaning a pool . . . . . . .
+
+
+Epoch No 33 completed. Total Training Loss : 57.74813461303711
+
+
+Validation : 
+Starting Epoch No : 33
+Sample Output After Epoch No : 33 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann sieht zu, wie eine Frau an einem Schießstand lächelnd eine Pistole abfeuert.
+Target : A man watching as a woman fires a gun with a smile at a firing range.
+Predicted : A man wearing and at black suit . gun with his brown at suit suit . . man man man man man man man man man man man
+
+
+
+2. Source : Jungen und Mädchen aus einem östlichen Land lächeln auf einem Feld.
+Target : Boys and girls from an Eastern nation smiling in a field.
+Predicted : Boy and hut four cotton cotton cotton Some is sitting brick . sitting sitting sitting sitting . . . man man in man in in
+
+
+Epoch No 33 completed. Total Training Loss : 185.77294921875
+
+
+Training : 
+Starting Epoch No : 34
+Sample Output After Epoch No : 34 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Viele Leute sitzen in einem mexikanischen Restaurant.
+Target : Many people sit in a Mexican restaurant.
+Predicted : Many people sitting in a restaurant restaurant . in . . . restaurant.
+
+
+
+2. Source : Ein Motorradrennfahrer nimmt eine Kurve auf einem Stadtkurs.
+Target : A motorbike racer takes a curve on a street circuit.
+Predicted : A motorbike racer takes a curve on a street circuit . . . . . . .
+
+
+Epoch No 34 completed. Total Training Loss : 55.970211029052734
+
+
+Validation : 
+Starting Epoch No : 34
+Sample Output After Epoch No : 34 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann in einem schwarzen T-Shirt kocht in einer unaufgeräumten Küche aus einem Kochbuch.
+Target : A man in a black shirt is cooking out of a cookbook in a cluttered kitchen.
+Predicted : A man in a black shirt a a on of a white a a white a . . . . . . . . . .
+
+
+
+2. Source : Eine Gruppe von Menschen läuft.
+Target : A group of people are running.
+Predicted : A group of people dirt barrel barrel bathe goers of goers of cute cute cute goers cute cute cute cute cute cute cute cute cute cute cute
+
+
+Epoch No 34 completed. Total Training Loss : 153.22732543945312
+
+
+Training : 
+Starting Epoch No : 35
+Sample Output After Epoch No : 35 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Polizisten befragen einen Mann, der vor einem U-Bahn-Zug sitzt.
+Target : Two police officers question a seated man in front of a subway train.
+Predicted : Two police officers are a seated man in front of a subway train . train train
+
+
+
+2. Source : Ein Hund rennt durch hohes Gras.
+Target : A dog is running through tall grass.
+Predicted : A dog running running through tall grass . . . . .
+
+
+Epoch No 35 completed. Total Training Loss : 56.64567184448242
+
+
+Validation : 
+Starting Epoch No : 35
+Sample Output After Epoch No : 35 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Frau späht durch ein Fernrohr im Wald.
+Target : A woman peeks into a telescope in the woods.
+Predicted : A woman standing dog the of . the road . . man man man man man man man man man man man man man man man man man
+
+
+
+2. Source : Menschen gehen vor einer Imbissbar auf einem Gehweg in einer Großstadt.
+Target : People walk on a metropolitan sidewalk in front of a bar and grill.
+Predicted : People people with the metropolitan . . the of the bar . man . . . . . . . man . man . . . . .
+
+
+Epoch No 35 completed. Total Training Loss : 184.36424255371094
+
+
+Training : 
+Starting Epoch No : 36
+Sample Output After Epoch No : 36 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein junges Mädchen das über orangen Kegel springt.
+Target : A young girl jumping over orange cones.
+Predicted : A young girl is an orange cones . . a . a a a a
+
+
+
+2. Source : Eine Mutter kniet und richtet das Kleid ihrer Tochter.
+Target : A mother is on her knees fixing her daughter's blue dress.
+Predicted : A mother is kneeling her daughter fixing her daughter in dress and . . . .
+
+
+Epoch No 36 completed. Total Training Loss : 55.23161697387695
+
+
+Validation : 
+Starting Epoch No : 36
+Sample Output After Epoch No : 36 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Frau in einem schwarzen Kleid schiebt einen Wagen mit Thermoskannen einen gepflasterten Fußgängerweg entlang.
+Target : A woman in a black dress is pushing a cart with thermos down a paved walkway.
+Predicted : A small in a black dress - looking to cart a a . some dress walkway are . man . man man man man man man man in . . man . .
+
+
+
+2. Source : Ein Kind steht neben einem Kinderwagen und hält ein Spielzeugschwert.
+Target : A child standing by a stroller and holding a toy sword.
+Predicted : A child is in a stroller in in in purple in in in in in in in man in in man in in in man in in man in in in in in
+
+
+Epoch No 36 completed. Total Training Loss : 156.56338500976562
+
+
+Training : 
+Starting Epoch No : 37
+Sample Output After Epoch No : 37 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Tennisspieler in einem gelben Oberteil springt hoch, um dem anderen, schwarz gekleideten Spieler den Ball zuzuspielen.
+Target : A tennis player, wearing a yellow shirt, jumps to hit the ball to the other player, who is wearing black.
+Predicted : A tennis player in wearing a yellow shirt jumps jumps high the the other . the other player . shot is wearing black . . .
+
+
+
+2. Source : Personen in Ausrüstung klettern einen schneebedeckten Berg hinauf.
+Target : People with equipment climbing up a snowy mountain
+Predicted : People in equipment climbing up a snowy mountain . . . . . . . . . . . . . . . . . . .
+
+
+Epoch No 37 completed. Total Training Loss : 55.52083969116211
+
+
+Validation : 
+Starting Epoch No : 37
+Sample Output After Epoch No : 37 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Rennkatamaran wird im Wasser auf einen Rumpf gehoben.
+Target : A racing catamaran is lifted onto one hull in the water.
+Predicted : A blue green Two people iced . red jagged the people . red red man man man man man man man man man man man man man man man man man man man man
+
+
+
+2. Source : Eine Gruppe von Menschen in lilafarbenen T-Shirts und hellbraunen Hosen geht gemeinsam in dieselbe Richtung.
+Target : A group of people in purple shirts and tan pants all walking in the same direction.
+Predicted : A group of people waving a hair a tan pants . . man the . direction . man man man man man man man man man man man man man man man man man
+
+
+Epoch No 37 completed. Total Training Loss : 179.65090942382812
+
+
+Training : 
+Starting Epoch No : 38
+Sample Output After Epoch No : 38 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Person beobachtet zwei Personen, die auf einer Steinbank sitzen und Objekte betrachten, die sie aus einem gelben Eimer nehmen.
+Target : One person is observing two people who are sitting on a brick bench looking through items taken from a yellow bucket.
+Predicted : A person is observing a people are are sitting on a stone bench, at a . from a yellow bucket . . . . . .
+
+
+
+2. Source : Ein Mann in einem gelben Hemd, zeigt seinen Daumen zur Seite.
+Target : A man in a yellow shirt holds his thumb out.
+Predicted : A man in a yellow shirt is his thumb up of his his his his his a a his a his his his.
+
+
+Epoch No 38 completed. Total Training Loss : 55.41913604736328
+
+
+Validation : 
+Starting Epoch No : 38
+Sample Output After Epoch No : 38 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Mehrere Männer stehen auf einem Festwagen, der durch eine Straße voll mit Menschen fährt.
+Target : Several men standing on a parade float traveling through a street crowded with people.
+Predicted : sits men are on a stadium, a hair a jacket a dirt a . green race man green parade green race Two and green . green.
+
+
+
+2. Source : Ein Kind macht einen Rückwärtssalto, während es auf einem Trampolin hüpft.
+Target : A child is doing a back flip whilst jumping on a trampoline.
+Predicted : A child at doing a helmet a a . while a field a . . . . . . a with with a high . with with.
+
+
+Epoch No 38 completed. Total Training Loss : 151.2731475830078
+
+
+Training : 
+Starting Epoch No : 39
+Sample Output After Epoch No : 39 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein hübsch gekleidetes kleines Mädchen posiert mit ihrem Spazierstock im Wald.
+Target : A beautifully dressed little girl poses in the forest with her walking stick.
+Predicted : A woman dressed woman girl poses with her forest with her walking . . . . . . . . . .
+
+
+
+2. Source : Ein Outfielder ist bereit einen fliegenden Ball zu fangen.
+Target : An outfielder about to catch a fly ball.
+Predicted : An outfielder watches to catch a ball ball . . . . ball ball ball ball ball ball ball ball ball . ball . ball a ball
+
+
+Epoch No 39 completed. Total Training Loss : 54.283424377441406
+
+
+Validation : 
+Starting Epoch No : 39
+Sample Output After Epoch No : 39 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann und eine Frau gehen einen steinernen Treppenaufgang hinauf und blicken auf eine Videokamera.
+Target : A man and woman are walking up a stone staircase, looking at a video camera.
+Predicted : A man in child is walking an on child tree . tree down . tree . . . . . . . . man . man . .
+
+
+
+2. Source : Mann arbeitet an den Schienen in einem Bahnhof.
+Target : Man working on the railroad in a railroad station.
+Predicted : Man wearing down down railroad in the restaurant station . man man man man green man man . man green green man man green man green green man
+
+
+Epoch No 39 completed. Total Training Loss : 175.08287048339844
+
+
+Training : 
+Starting Epoch No : 40
+Sample Output After Epoch No : 40 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein älterer Mann steht neben einer lachenden Frau.
+Target : An older man stands next to a woman who is laughing.
+Predicted : An older man is next to a woman who is laughing . . . . . . .
+
+
+
+2. Source : Zwei Kinder arbeiten mit Gartenwerkzeug im Garten.
+Target : Two children are using pruning tools in the yard.
+Predicted : Two children are wrestling pruning tools in the yard . . . . yard . . . . . . . . . . . . . . .
+
+
+Epoch No 40 completed. Total Training Loss : 54.34904479980469
+
+
+Validation : 
+Starting Epoch No : 40
+Sample Output After Epoch No : 40 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Jungen in einem Zelt lächeln für die Kamera.
+Target : Two boys in a tent smile for the camera.
+Predicted : sits women at a blue to in talking camera .'s in's in of man man man man man man man man man man man's 's
+
+
+
+2. Source : Eine Frau fotografiert mit einer großen Kamera, während sie auf der Straße steht.
+Target : A woman using a large camera while standing in the street.
+Predicted : A group wearing a bright at . a on a day . sidewalk on on on on on on on on on on on on on on on
+
+
+Epoch No 40 completed. Total Training Loss : 149.4383087158203
+
+
+Training : 
+Starting Epoch No : 41
+Sample Output After Epoch No : 41 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Frau mit Gepäck geht vor einer großen Werbung die Straße entlang.
+Target : A woman with luggage walks along a street in front of a large advertisement.
+Predicted : A woman with luggage is down the street in front of a large statue . . . . . . . . . . .
+
+
+
+2. Source : Ein junges Paar küsst sich vor einem Fahrradständer.
+Target : A young couple kissing by a bike rake.
+Predicted : A young couple kissing in a bike . . . . . . . . . . . . . . . . . . . . .
+
+
+Epoch No 41 completed. Total Training Loss : 53.10610580444336
+
+
+Validation : 
+Starting Epoch No : 41
+Sample Output After Epoch No : 41 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Mädchen sind nass und hinter ihnen ist eine Frau, die einen geöffneten Regenschirm hält.
+Target : Two girls are wet and behind them is a woman holding an open umbrella.
+Predicted : Two people are are are are site and standing woman in a in . . . . . as in road . road . as . . . . man . .
+
+
+
+2. Source : Ein Rennkatamaran wird im Wasser auf einen Rumpf gehoben.
+Target : A racing catamaran is lifted onto one hull in the water.
+Predicted : A young catamaran is riding in . hull in the water . red red red red iced red red . in in iced in in man in red red red red red
+
+
+Epoch No 41 completed. Total Training Loss : 145.69497680664062
+
+
+Training : 
+Starting Epoch No : 42
+Sample Output After Epoch No : 42 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein älteres Kind reitet und schwingt auf einem roter Gummiball der an einem blauen Seil befestigt ist.
+Target : There is a older child riding a red rubber ball tied onto a blue rope and is swing from it.
+Predicted : An is an older child riding a red toy tied tied onto the blue rope . is swinging . a . . . . .
+
+
+
+2. Source : Nur wenige Menschen genießen den Tag am Strand in der Nähe eines gelben Bulldozers.
+Target : Only a few people are enjoying the day at the beach near the yellow bulldozer.
+Predicted : A a few people are enjoying the water near the water near a water bulldozer . . .
+
+
+Epoch No 42 completed. Total Training Loss : 53.27738571166992
+
+
+Validation : 
+Starting Epoch No : 42
+Sample Output After Epoch No : 42 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Jungen in einem Zelt lächeln für die Kamera.
+Target : Two boys in a tent smile for the camera.
+Predicted : sits boys at a people a a . camera .'s 's orange of man man man man man man man man man man man man man man man
+
+
+
+2. Source : Ein Junge setzt zu einem Torschuss an
+Target : A boy prepares to kick a goal shot
+Predicted : One boy prepares ingredients a a park a . . . . from a a . a a a a a a . . a
+
+
+Epoch No 42 completed. Total Training Loss : 159.25442504882812
+
+
+Training : 
+Starting Epoch No : 43
+Sample Output After Epoch No : 43 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann reinigt die Fensterscheibe.
+Target : A man cleaning at the window glass
+Predicted : A man is the the window . . . . . . . . . . . . . . . . . . . . . .
+
+
+
+2. Source : Ein kleines Mädchen mit leuchtend rosa Hose steckt ihren Kopf in eine Vorrichtung auf einem Spielplatz.
+Target : A little girl with bright pink pants playfully sticks her face in a contraption on a playground.
+Predicted : A little girl in a pink pants and sticks on head in a bright . a playground . .
+
+
+Epoch No 43 completed. Total Training Loss : 53.140872955322266
+
+
+Validation : 
+Starting Epoch No : 43
+Sample Output After Epoch No : 43 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Einige Männer gehen auf einer öffentlichen Straße in der Stadt.
+Target : A couple of men walking on a public city street.
+Predicted : sits four on on on on the street street street . in leash in leash across man man man man man man . the the man man man to
+
+
+
+2. Source : Eine Frau mit gelbem Helm benutzt eine Seilrutsche.
+Target : A woman wearing a yellow helmet is using a zipline.
+Predicted : A woman is her yellow as is holding her zipline . across man across across man man holding man man across street man man across man the man man man man
+
+
+Epoch No 43 completed. Total Training Loss : 138.94931030273438
+
+
+Training : 
+Starting Epoch No : 44
+Sample Output After Epoch No : 44 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Das Mädchen spielt mit den Bildern auf dem großen Bildschirm mit.
+Target : The girl is playing along with the images on the big screen.
+Predicted : The girl is playing with with the big on the large screen . . . . . .
+
+
+
+2. Source : Zwei Hockeyteams spielen Hockey.
+Target : 2 hockey teams are playing hockey.
+Predicted : Two hockey players are playing hockey . . . . .
+
+
+Epoch No 44 completed. Total Training Loss : 50.88731002807617
+
+
+Validation : 
+Starting Epoch No : 44
+Sample Output After Epoch No : 44 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein gelber Hund am Strand trägt einen Ball im Maul.
+Target : A yellow dog carries a ball in its mouth on the beach.
+Predicted : A boy in line in beach in a mouth . a beach . . . . . . . . . . . . . . . . . .
+
+
+
+2. Source : Eine Frau mit gelbem Helm benutzt eine Seilrutsche.
+Target : A woman wearing a yellow helmet is using a zipline.
+Predicted : A man in a green . . working a crowd . . . . . man man man man man man . man . man man man man . .
+
+
+Epoch No 44 completed. Total Training Loss : 152.06814575195312
+
+
+Training : 
+Starting Epoch No : 45
+Sample Output After Epoch No : 45 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Menschen versammeln sich zur jährlichen Feier des 4.   Juli im Delwood-Wohnviertel.
+Target : People gathering for the Delwood Neighborhood annual 4th of July celebration.
+Predicted : People gathering for the Delwood Neighborhood annual 4th of July celebration . . . .
+
+
+
+2. Source : Zwei Hunde spielen Fangen auf einem Feld.
+Target : Two dogs are playing catch in a field.
+Predicted : Two dogs play playing catch in a field . . . .
+
+
+Epoch No 45 completed. Total Training Loss : 51.35939407348633
+
+
+Validation : 
+Starting Epoch No : 45
+Sample Output After Epoch No : 45 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein junger Mann in einem grünen Sweatshirt liest eine Zeitung am Strand.
+Target : A young man in a green sweatshirt reads a newspaper on the beach.
+Predicted : A man man a green . is outside newspaper paddling the background . . camera . . camera camera camera
+
+
+
+2. Source : Ein Junge macht ein Kunststück mit dem Skateboard von einer Metallplanke herunter.
+Target : A boy does a skateboard trick off a metal plank.
+Predicted : A boy with about child plank sings of metal plank . dirt dirt outside man man man man by
+
+
+Epoch No 45 completed. Total Training Loss : 152.5809783935547
+
+
+Training : 
+Starting Epoch No : 46
+Sample Output After Epoch No : 46 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Schüler und ihre Lehrer gehen in einem Klassenzimmer Unterlagen durch.
+Target : Students, and their teachers in a classroom going over material.
+Predicted : Students are are their students in a classroom going over material in . . . . . .
+
+
+
+2. Source : Vier junge Kids lassen sich fotografieren, während sie mitten in der Luft sind.
+Target : Four young kids have a picture taken of them while in midair.
+Predicted : Four young kids getting a picture of of them in they midair . . . . . . in
+
+
+Epoch No 46 completed. Total Training Loss : 50.12387466430664
+
+
+Validation : 
+Starting Epoch No : 46
+Sample Output After Epoch No : 46 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Frau mit zwei Medaillen um den Hals hält sieben Finger nach oben.
+Target : Woman with two medals around her neck, holding up seven fingers.
+Predicted : sits with people workers around goers neck with building a a with with spotted man face face observed observed observed observed Several son man man
+
+
+
+2. Source : Eine mittelgroße Gruppe von Menschen posiert vor der Kamera.
+Target : A medium sized group of people pose in front of the camera.
+Predicted : A group sized group of people dirt young stands of dirt camera . dirt dirt dirt man man dirt dirt man man man man man man
+
+
+Epoch No 46 completed. Total Training Loss : 118.77582550048828
+
+
+Training : 
+Starting Epoch No : 47
+Sample Output After Epoch No : 47 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann sitzt auf einem Fahrrad inmitten eines Waldes.
+Target : A man is sitting on a bike in the middle of the woods.
+Predicted : A man is sitting on a bicycle in the middle of the woods . . . . . .
+
+
+
+2. Source : Zwei Jungen in blauen T-Shirts sitzen am Ende einer Bank neben einem Fahrgeschäft.
+Target : Two boys in blue shirts sit on the end of a bench next to a fair ride.
+Predicted : Two boys in blue shirts sit on a bench of a bench next to a ride ride . . . . . . . .
+
+
+Epoch No 47 completed. Total Training Loss : 48.83620834350586
+
+
+Validation : 
+Starting Epoch No : 47
+Sample Output After Epoch No : 47 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein großer brauner Hund hält sein Gesicht in den Rasensprenger.
+Target : A large brown dog is sticking his face in the sprinkler.
+Predicted : A young in dog across lying . face . the face . man man man man man man man man man man man man
+
+
+
+2. Source : Zwei Männer, einer in Blau und der andere in Rot, treten in einem Boxkampf gegeneinander an.
+Target : Two men, one in blue and one in red, compete in a boxing match.
+Predicted : Two from in one in an and one in the and and in black building match . . . and and and and and and
+
+
+Epoch No 47 completed. Total Training Loss : 127.7554931640625
+
+
+Training : 
+Starting Epoch No : 48
+Sample Output After Epoch No : 48 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann in einem beigen Anzug sitzt mit fünf Kindern an einem Holztisch und malt Bilder.
+Target : A man in a beige suit is sitting at a wooden table with five children and drawing pictures.
+Predicted : A man in a beige suit is sitting at a wooden table with five children and painting pictures . . . . . . . . . . . .
+
+
+
+2. Source : Ein Stand mit vielen verschiedenen Trockenfrüchten, zum Beispiel Nüssen.
+Target : A stand with many different dry foods, such as nuts.
+Predicted : A stand with many different colored tents, including on colorful . . . . . . . . . . . . . . . . .
+
+
+Epoch No 48 completed. Total Training Loss : 47.046485900878906
+
+
+Validation : 
+Starting Epoch No : 48
+Sample Output After Epoch No : 48 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Das Maul eines Hundes öffnet sich und entblößt dessen scharfe Zähne.
+Target : A dog's mouth opens to expose its sharp teeth.
+Predicted : This man's Cami opens to a its seated . . man man man man man man man man man man man man man man man man man
+
+
+
+2. Source : Ein Mann mit einem Kapuzenshirt sitzt an einem Springbrunnen und beobachtet die Menschen der Stadt.
+Target : One man, wearing a hooded sweatshirt, sitting at a fountain watching the people of the city.
+Predicted : A man is a a blue is is is on a beer . a city . city . . . . . . . . . .
+
+
+Epoch No 48 completed. Total Training Loss : 132.3875732421875
+
+
+Training : 
+Starting Epoch No : 49
+Sample Output After Epoch No : 49 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann, der einen kleinen orange gekleideten Jungen in eine Kinderschaukel setzt.
+Target : A man putting a little boy wearing orange into a child swing.
+Predicted : A man sits on little boy down a a child swing . . .
+
+
+
+2. Source : Ein Mann in Schwarz applaudiert einem Läufer mit einem roten Trikot mit der Zahl 281.
+Target : A man in black is applauding a runner wearing a red jersey and the number 281.
+Predicted : A man in black is applauding to man wearing a red jersey and the other 281 . . . . . . . . . . . . . . . . . . .
+
+
+Epoch No 49 completed. Total Training Loss : 47.4050407409668
+
+
+Validation : 
+Starting Epoch No : 49
+Sample Output After Epoch No : 49 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Frau, die eine Einkaufstasche von Trader Joe's trägt, ist im Zug eingeschlafen.
+Target : A woman carrying a Trader Joe's grocery bag has fallen asleep on the train.
+Predicted : A woman in a site Joe's rocky bike a . asleep on the train to . . . . . man . . . . . . . .
+
+
+
+2. Source : Zwei Menschen halten einen großen umgekehrten Globus mit einem Durchmesser von ca. 120   cm und es wirkt so, als würde ein Kind über die Antarktis springen.
+Target : Two people are holding a large upside - down earth globe, about 4' in diameter, and a child appears to be jumping over Antarctica.
+Predicted : sits women are are their red and and few the of, and to behind in an and and the wooded at . and and man a and and dive
+
+
+Epoch No 49 completed. Total Training Loss : 117.21272277832031
+
+
+Training : 
+Starting Epoch No : 50
+Sample Output After Epoch No : 50 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann in einem rosa-weiß gestreiften Hemd hält die Zügel eines Pferds.
+Target : A man in a pink and white striped shirt holding the reins of a horse.
+Predicted : A man in a pink and white striped shirt holding the reins of a horse . . . . .
+
+
+
+2. Source : Ein kleiner Junge in einer roten Schwimmweste schwimmt in einem Pool.
+Target : A young boy in a red life jacket is swimming in a pool.
+Predicted : A little boy in a red life jacket is swimming in a pool . . . . .
+
+
+Epoch No 50 completed. Total Training Loss : 45.87791061401367
+
+
+Validation : 
+Starting Epoch No : 50
+Sample Output After Epoch No : 50 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Asiatin in Postbotenuniform schiebt einen großen Paketstapel.
+Target : Asian woman in postal delivery uniform is pushing a large pile of packages.
+Predicted : This at in middle delivery uniform of people . saber . of a . man man man man man man man man man man man man man man man man
+
+
+
+2. Source : Eine Person überquert die Straße und meidet dabei die ausgelaufene Farbe.
+Target : A person crosses the street and avoids the spill of paint.
+Predicted : A person shirts shirts street shirts a off ocean of paint . at at . . . . at . . . . . . . of at . at
+
+
+Epoch No 50 completed. Total Training Loss : 117.71855163574219
+
+
+Training : 
+Starting Epoch No : 51
+
+
+Training : 
+Starting Epoch No : 52
+
+
+Training : 
+Starting Epoch No : 53
+
+
+Training : 
+Starting Epoch No : 54
+
+
+Training : 
+Starting Epoch No : 55
+
+
+Training : 
+Starting Epoch No : 56
+
+
+Training : 
+Starting Epoch No : 57
+
+
+Training : 
+Starting Epoch No : 58
+
+
+Training : 
+Starting Epoch No : 59
+
+
+Training : 
+Starting Epoch No : 60
+
+
+Training : 
+Starting Epoch No : 61
+
+
+Training : 
+Starting Epoch No : 62
+
+
+Training : 
+Starting Epoch No : 63
+
+
+Training : 
+Starting Epoch No : 64
+
+
+Training : 
+Starting Epoch No : 65
+
+
+Training : 
+Starting Epoch No : 66
+Sample Output After Epoch No : 66 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Mädchen beim Sport.
+Target : Two girls are playing a sport.
+Predicted : Two girls are playing a sport . . . . .
+
+
+
+2. Source : Ein Mann im weißen Hemd schreibt an eine Tafel, während andere Personen an einem Tisch sitzen und zusehen.
+Target : A man in a white shirt uses a blackboard as others sit at a table watching.
+Predicted : A man in a white shirt is a blackboard as others sit at a white . him . . .
+
+
+Epoch No 66 completed. Total Training Loss : 45.37406921386719
+
+
+Validation : 
+Starting Epoch No : 66
+Sample Output After Epoch No : 66 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Frau mit einem gelben T-Shirt und Sonnenbrille geht einen Gehweg entlang.
+Target : A woman in a yellow t - shirt and sunglasses walks down a sidewalk.
+Predicted : A woman in yellow yellow shirt - shirt and sunglasses as descent the line . man man . man man man man
+
+
+
+2. Source : Drei Männer auf Pferden während eines Rennens.
+Target : Three men on horses during a race.
+Predicted : Three men are the during race soccer man man kissing man man man man man man man man man man man man man man man man man
+
+
+Epoch No 66 completed. Total Training Loss : 137.28598022460938
+
+
+Training : 
+Starting Epoch No : 67
+Sample Output After Epoch No : 67 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine hübsche junge Frau tanzt auf einer Bühne und sieht wunderschön aus.
+Target : A nice young lady on a stage dancing and look very beautiful.
+Predicted : A young woman woman is a stage dancing and look out beautiful . . . . . . .
+
+
+
+2. Source : Ein Hund hat einen orangen Ball im Maul.
+Target : A dog has an orange ball in its mouth.
+Predicted : A dog has a orange ball in its mouth . .
+
+
+Epoch No 67 completed. Total Training Loss : 45.37724304199219
+
+
+Validation : 
+Starting Epoch No : 67
+Sample Output After Epoch No : 67 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Mädchen in schwarzen Bikinis spielen Beachvolleyball.
+Target : Girls in black bikinis playing beach volleyball.
+Predicted : A loading a bikinis of . . . man man man man man man man man man man man man man man man man man man man man man
+
+
+
+2. Source : Eine Gruppe bunt gekleideter und geschminkter Frauen tanzt im balinesischen Stil.
+Target : A group of women dances Bali style in colorful outfits and makeup.
+Predicted : A group performing a wearing a a . the and . beside . man man man man man man man man man man man man man man man man look
+
+
+Epoch No 67 completed. Total Training Loss : 116.95689392089844
+
+
+Training : 
+Starting Epoch No : 68
+Sample Output After Epoch No : 68 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Braut und ein Bräutigam, die Blumenkränze tragen, schneiden ihre Hochzeitstorte an.
+Target : A bride and groom, wearing leis, cutting their wedding cake.
+Predicted : A bride and groom, wearing leis, cutting a wedding . . . . .
+
+
+
+2. Source : Eine Band spielt Instrumente für eine kleine Zuschauermenge.
+Target : A band is playing instruments for a little crowd.
+Predicted : A band is playing a for a little crowd . . . .
+
+
+Epoch No 68 completed. Total Training Loss : 44.455081939697266
+
+
+Validation : 
+Starting Epoch No : 68
+Sample Output After Epoch No : 68 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Dieser Mann versucht scheinbar, in einer geschäftigen Stadt eine Art politisches Statement abzugeben.
+Target : This man seems to be trying to make some kind of political statement in a busy city.
+Predicted : This man in trying be table make some kind of jagged statement Two front busy city . man man
+
+
+
+2. Source : Ein Wanderer posiert für ein Foto in einer trockenen Berglandschaft.
+Target : A hiker posing for a photo in an arid mountain landscape.
+Predicted : suits four posing dog dog group . front arid man which man man man arid arid arid arid arid man man
+
+
+Epoch No 68 completed. Total Training Loss : 148.927734375
+
+
+Training : 
+Starting Epoch No : 69
+Sample Output After Epoch No : 69 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Wanderer wandern neben einer grünen Konifere eine karge Böschung hinunter.
+Target : Two hikers walk down an arid slope next to a green conifer.
+Predicted : Two hikers walk down a arid slope next to a green traffic . . . . . . . .
+
+
+
+2. Source : Ein kleiner Junge sitzt nach vorn gebeugt auf einer Kinderschaukel.
+Target : A young boy tilted forward in a child's swing.
+Predicted : A young boy tilted forward in a child's swing . . . . .
+
+
+Epoch No 69 completed. Total Training Loss : 44.69814682006836
+
+
+Validation : 
+Starting Epoch No : 69
+Sample Output After Epoch No : 69 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Gruppe von Arbeitern hört den Anweisungen eines Kollegen zu.
+Target : A group of workers are listening to instruction from a colleague.
+Predicted : A group of dirt is posing to instruction . a colleague . man man man man man man man to to to man to man man man man to
+
+
+
+2. Source : Ein kleines Mädchen liegt auf dem Boden, während ihre jüngere Schwester Krankenschwester spielt.
+Target : A small girl is lying on the floor while her younger sister is pretending to be a nurse.
+Predicted : A little girl is playing on a floor while playing hand sister while playing . be man nurse to man man man man man man man man man man race
+
+
+Epoch No 69 completed. Total Training Loss : 104.45925903320312
+
+
+Training : 
+Starting Epoch No : 70
+Sample Output After Epoch No : 70 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Der Mann arbeitet nach Einbruch der Dunkelheit auf einem Markt.
+Target : The man is working after dark in a market.
+Predicted : The man is working on dark in the market . . .
+
+
+
+2. Source : Ein junger Mann mit einer Retro-Frisur wartet neben einem Auto.
+Target : A young man with a retro hairstyle waits beside a car.
+Predicted : A young man with a scruffy hairstyle waits next a car . car . car
+
+
+Epoch No 70 completed. Total Training Loss : 43.84814453125
+
+
+Validation : 
+Starting Epoch No : 70
+Sample Output After Epoch No : 70 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Person mit neonpinkfarbenem Haar und gelbem T-Shirt blickt über einen Strand.
+Target : A person with neon pink hair and yellow shirt is looking out across a beach.
+Predicted : A person with neon pink shirt with a top is lying out dog . race . football . man . class . football . football football football . . .
+
+
+
+2. Source : Zwei Frauen in pinkfarbenen T-Shirts und Bluejeans unterhalten sich vor einem Bekleidungsgeschäft.
+Target : Two women wearing pink T - shirts and blue jeans converse outside clothing store.
+Predicted : Two women in a T with shirts in a a . . . man saber man man man man man man man man man man man man man man man
+
+
+Epoch No 70 completed. Total Training Loss : 118.03309631347656
+
+
+Training : 
+Starting Epoch No : 71
+Sample Output After Epoch No : 71 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Crosscountry-Läufer rennt auf einem von Gras und Bäumen gesäumten Weg.
+Target : A crosscountry runner is running on a trail surrounded by grass and trees.
+Predicted : A crosscountry runner runs running down a trail lined by trees . trees . . . .
+
+
+
+2. Source : Ein Kind in einem grünen Oberteil schaut nach etwas, das außerhalb des Bildes liegt.
+Target : A child in a green shirt is looking at something that is out of the frame.
+Predicted : A child in a green shirt is laying at something that is out the frame frame . . . . . . .
+
+
+Epoch No 71 completed. Total Training Loss : 44.062652587890625
+
+
+Validation : 
+Starting Epoch No : 71
+Sample Output After Epoch No : 71 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann stellt in der Nähe des Wassers den Motor eines Boots ein.
+Target : A man adjusts the engine of a boat near the water.
+Predicted : A man is a engine of a paper . a sand . man man man takes takes arid boxing arid
+
+
+
+2. Source : Ein brauner Hund rennt mit einem Stock im Maul über den Sand.
+Target : A brown dog runs on the sand carrying a stick.
+Predicted : A brown descent . through the sand carrying a stick sand . . . . stage Eastern stage of of
+
+
+Epoch No 71 completed. Total Training Loss : 104.16957092285156
+
+
+Training : 
+Starting Epoch No : 72
+Sample Output After Epoch No : 72 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : 2 Männer in einem Raum mit einem Weihnachtsbaum sitzen auf beiden Seiten einer Staffelei und zeichnen.
+Target : 2 men are sitting down and drawing on either side of an easel in a room with a Christmas Tree.
+Predicted : Men men and sitting in in drawing on either side of a easel in a room . a room Tree . . . . . . . . . . . . . . .
+
+
+
+2. Source : Ein Mann, der eine schmale Straße entlang geht.
+Target : A man walking down a narrow street.
+Predicted : A man walking down a narrow street . . . . . .
+
+
+Epoch No 72 completed. Total Training Loss : 43.489601135253906
+
+
+Validation : 
+Starting Epoch No : 72
+Sample Output After Epoch No : 72 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Terrier spielen zu Hause auf dem Holzboden.
+Target : Two terriers play on the wood floor of their home.
+Predicted : sits terriers coat a a other . . coat life . blue blue blue man man man man man man life man blue man man man
+
+
+
+2. Source : Ein Mann leckt das Gesicht einer Frau mit Brille ab.
+Target : A man licking the face of a woman wearing glasses.
+Predicted : Man man in a face of a woman . a . . . . . . . . . . . . . . .
+
+
+Epoch No 72 completed. Total Training Loss : 108.16659545898438
+
+
+Training : 
+Starting Epoch No : 73
+Sample Output After Epoch No : 73 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Indischer Mann mit großem Mobiltelefon.
+Target : An Indian man with a big cellphone.
+Predicted : An Indian man with a large cellphone . . . . . . .
+
+
+
+2. Source : Ein Mann auf einem Fahrrad befindet sich vor einem Fahrradgeschäft in der Nähe einer Reihe von Fahrrädern.
+Target : A man on a bicycle is outside a bicycle shop near a row of bikes.
+Predicted : A man on a bicycle is in a bicycle shop near a bike of bicycles . .
+
+
+Epoch No 73 completed. Total Training Loss : 42.61711120605469
+
+
+Validation : 
+Starting Epoch No : 73
+Sample Output After Epoch No : 73 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Kind spielt auf einem Spielplatz und hängt dabei an Stangen.
+Target : Child playing on a playground, hanging from bars.
+Predicted : Child at with the playground, . from Spider game slide slide slide watch Several . ceremonial stacked ceremonial parasailing . stacked ceremonial ceremonial.
+
+
+
+2. Source : Die Frau bringt eine orange Rose als Anstecksträußchen am Jackettkragen des Mannes an.
+Target : The woman is placing an orange rose as a boutonniere on the man's suit jacket collar.
+Predicted : The woman is looking outside the smiling holding' suit, the beach . jacket . . man man man man . man man man man man man
+
+
+Epoch No 73 completed. Total Training Loss : 120.49969482421875
+
+
+Training : 
+Starting Epoch No : 74
+Sample Output After Epoch No : 74 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann schaut zu, wie ein Kind ein Spiel spielt.
+Target : A man looks on while a child plays a game.
+Predicted : A man playing at as a child plays a game . . game game game game game a game.
+
+
+
+2. Source : Ein Footballspieler in schwarzer Kleidung versucht einen anderen Spieler in einem weißen Trikot zu tackeln.
+Target : A football player wearing black attempts to tackle a football player wearing white.
+Predicted : A football player in a attempts to tackle another player player in white . uniform . uniform uniform white uniform.
+
+
+Epoch No 74 completed. Total Training Loss : 41.877376556396484
+
+
+Validation : 
+Starting Epoch No : 74
+Sample Output After Epoch No : 74 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Der schwarze Hund springt über dem Wasser in Richtung einer Frisbeescheibe, die in der Nähe eines Boots treibt.
+Target : The black dog jumps above the water towards a Frisbee floating near a boat.
+Predicted : The white dog is to the water towards the Frisbee floating the the Frisbee as . leaves . Several the the the running man the the man Several the leaves leaves
+
+
+
+2. Source : Ein Radfahrer vollführt einen Sprung in einem Wald.
+Target : A biker doing a jump in a forest.
+Predicted : A man doing a glass a the woods . man man man man . man man man . man man man man man . man . . man man man
+
+
+Epoch No 74 completed. Total Training Loss : 96.85250854492188
+
+
+Training : 
+Starting Epoch No : 75
+Sample Output After Epoch No : 75 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein asiatischer Mann bereitet seine Produkte an seinem Verkaufstand für den täglichen Markt vor.
+Target : An Asian man prepares his produce at his stand for the daily market.
+Predicted : Asian Asian man prepares his produce at a stand in the market market . for for . for
+
+
+
+2. Source : Zwei braune Sofas stehen gegenüber an einem Kaffeetisch, auf dem sich Zeitungen und Zeitschriften stapeln.
+Target : Two brown couches facing each other across a coffee table piled with newspapers and magazines.
+Predicted : Two brown couches facing each other across a coffee table piled with newspapers and magazines . " " "
+
+
+Epoch No 75 completed. Total Training Loss : 41.550376892089844
+
+
+Validation : 
+Starting Epoch No : 75
+Sample Output After Epoch No : 75 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Vier Hunde spielen im Kreis und ein schwarzer Hund läuft weg.
+Target : Four dogs are playing in a circle and one black dog is walking away.
+Predicted : Four dogs are playing with white circle toy holding black Christmas . talking . . . . . . . . . . . . . man
+
+
+
+2. Source : Zwei Mädchen spielen mit ihrem Hund auf einem Baum.
+Target : Two girls playing on a tree with their dog.
+Predicted : sits girls are with a lot with mountains race . man . small at at . lap lap lap waiting lap lap lap lap small cotton lap age waiting lap
+
+
+Epoch No 75 completed. Total Training Loss : 105.97542572021484
+
+
+Training : 
+Starting Epoch No : 76
+Sample Output After Epoch No : 76 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Frauen sitzen auf Treppenstufen und diskutieren miteinander.
+Target : Two women sitting on steps having discussion.
+Predicted : Two women are on steps having discussion . . . . . . . . .
+
+
+
+2. Source : Eine Person auf einem Snowboard scheint aus dem Helikopter in der Nähe gesprungen zu sein.
+Target : An individual on a ski board appears to have jumped from the nearby helicopter.
+Predicted : A individual on a ski board appears to have jumped from the nearby helicopter . . . . . .
+
+
+Epoch No 76 completed. Total Training Loss : 41.18232345581055
+
+
+Validation : 
+Starting Epoch No : 76
+Sample Output After Epoch No : 76 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Junge Frauen und Kinder in einem Dorf, wobei eine einzelne Frau in die Kamera blickt.
+Target : Young women and children in a village, with a single woman focused on the camera.
+Predicted : Young women and a in a man of t a line of wearing on the black . man man man man man man man man man man man man man man man man man
+
+
+
+2. Source : Menschen sitzen zwischen ein paar Pfeilern, während eine andere Person vorbeigeht.
+Target : People are seated among some pillars while another person walks by.
+Predicted : Several are post among while hats while holding woman walks a life hats 3 3 red red balding green as as as as as high takes red red 3 3 takes 3 3 3 3
+
+
+Epoch No 76 completed. Total Training Loss : 90.57664489746094
+
+
+Training : 
+Starting Epoch No : 77
+Sample Output After Epoch No : 77 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein kleiner asiatischer Junge hat sich auf einer Buchmesse hingesetzt und liest ein Buch, und eine Frau schaut zu.
+Target : Young asian boy sits down and reads a book at a book fair as a female looks on.
+Predicted : A Asian boy sits down while reads a book at a book . . a book looks on . . . .
+
+
+
+2. Source : Ein Bulldozer schiebt Steine und Erde auf einen Haufen.
+Target : A bulldozer is pushing stones and dirt into a pile.
+Predicted : A bulldozer is flying a and dirt . a pile . . . .
+
+
+Epoch No 77 completed. Total Training Loss : 40.01884078979492
+
+
+Validation : 
+Starting Epoch No : 77
+Sample Output After Epoch No : 77 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mädchen bei einem Gymnastikwettkampf vollführt eine kühne Übung und beeindruckt dadurch das Publikum.
+Target : A girl competing in gymnastics performs a gutsy routine as she impresses the audience.
+Predicted : A child competing in gymnastics straw . gutsy . . she impresses . audience . . . . . . . . man man man man man . man
+
+
+
+2. Source : Ein Traktor bewegt Erde für den Bau einer Stützmauer.
+Target : A tractor is moving dirt to help build up a retaining wall.
+Predicted : A tractor is moving . to an an up . toy people . . . . . . . . . . . . . . . . .
+
+
+Epoch No 77 completed. Total Training Loss : 116.18990325927734
+
+
+Training : 
+Starting Epoch No : 78
+Sample Output After Epoch No : 78 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann in einem schwarzweißen Trikot spielt Eishockey.
+Target : A man in a black and white uniform is playing ice hockey.
+Predicted : A man in a black and white uniform is playing ice hockey . . .
+
+
+
+2. Source : Ein Skateboarder fährt mit dem Skateboard einen Sims hinunter, neben dem sich Treppenstufen befinden.
+Target : A skateboarder skates down a ledge next to stair steps.
+Predicted : A skateboarder skates down the ledge next to a railing . on steps steps
+
+
+Epoch No 78 completed. Total Training Loss : 39.51951217651367
+
+
+Validation : 
+Starting Epoch No : 78
+Sample Output After Epoch No : 78 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Schwarze Menschen sind in einem Lebensmittelgeschäft, um Essen zu kaufen.
+Target : Black people are at the grocery store to get there food.
+Predicted : Black people to at get grocery to saber get there food of green outside outside outside green balding takes man man man green green outside outside outside outside
+
+
+
+2. Source : Ein Militär hält eine Kamera und zeigt einem Kind den Film auf der Kamera.
+Target : A military man holding a camera, showing a child the film on the camera.
+Predicted : A child in a camera and wearing a camera at camera on a camera . look look . look look . in . . . .
+
+
+Epoch No 78 completed. Total Training Loss : 88.58999633789062
+
+
+Training : 
+Starting Epoch No : 79
+Sample Output After Epoch No : 79 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Straße in einer Stadt mit einem Schlagloch in der Mitte.
+Target : A city street with a pothole in the middle of it.
+Predicted : A city street with a pothole in the middle of it . city
+
+
+
+2. Source : Drei Jungen spielen im Gras Football.
+Target : Three boys play football in the grass.
+Predicted : Three boys are football on the grass . .
+
+
+Epoch No 79 completed. Total Training Loss : 38.838768005371094
+
+
+Validation : 
+Starting Epoch No : 79
+Sample Output After Epoch No : 79 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann leckt das Gesicht einer Frau mit Brille ab.
+Target : A man licking the face of a woman wearing glasses.
+Predicted : A man with woman face woman a woman glasses glasses . . . . . . . . . . . . . . . .
+
+
+
+2. Source : Eine Gruppe von Polizisten steht vor einem Bus.
+Target : A bunch of police officers are standing outside a bus.
+Predicted : A group of men officers sliding riding stands of bus . . . . . . . . . . . . . . . man . . . man man
+
+
+Epoch No 79 completed. Total Training Loss : 96.42874908447266
+
+
+Training : 
+Starting Epoch No : 80
+Sample Output After Epoch No : 80 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann mit gestreiftem Hemd ist auf der Bühne neben einer anderen Person mit einer Gitarre.
+Target : A man with a striped shirt is on stage next to another person with a guitar.
+Predicted : A man in a striped shirt is sitting stage next to another person playing a guitar . . . .
+
+
+
+2. Source : Eine Frau in einer blau karierten Bluse und einem Bandana backt Brot.
+Target : A woman with a blue plaid shirt and a bandanna makes bread.
+Predicted : A woman in a checkered shirt shirt and a woman makes bread . .
+
+
+Epoch No 80 completed. Total Training Loss : 38.76044845581055
+
+
+Validation : 
+Starting Epoch No : 80
+Sample Output After Epoch No : 80 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Mit einer Badewanne auf dem Dach und befestigten Fahnen ist das Auto bereit für den Start der Rallye.
+Target : With a tub resting on its outer roof, flags attached, the car is ready to take off for the rally.
+Predicted : With of tub resting on its outer roof, iced attached, and car is leaning to take off for . rally . son uniform uniform son uniform son uniform son race
+
+
+
+2. Source : Mehrere Menschen stehen um einen Behälter, in dem ein Mann einen braunen Gegenstand bearbeitet.
+Target : Several people standing around a bowl, in which one man is manipulating a brown object.
+Predicted : Several people standing, which bowl, one a one red manipulating a blue object . . . . . . . . . . . . . . . .
+
+
+Epoch No 80 completed. Total Training Loss : 84.81197357177734
+
+
+Training : 
+Starting Epoch No : 81
+Sample Output After Epoch No : 81 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann in einem blauen Oberteil wandert über einen Naturwanderweg.
+Target : A man in a blue shirt hikes through a nature trail.
+Predicted : A man in a blue shirt hikes through a nature trail . . . .
+
+
+
+2. Source : Das Baby trägt einen Latz und sitzt einem Erwachsenen auf dem Schoss.
+Target : The baby is wearing a bib and sitting in an adult '
+Predicted : The baby is wearing a bib in sitting in an adult' position . store car . . . car store
+
+
+Epoch No 81 completed. Total Training Loss : 38.25586700439453
+
+
+Validation : 
+Starting Epoch No : 81
+Sample Output After Epoch No : 81 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Frau bereitet die Zutaten für einen Suppentopf vor.
+Target : A woman prepares ingredients for a bowl of soup.
+Predicted : A woman in ingredients in dog bowl of soup . . . . . . . . . . . . . . . . . . . . .
+
+
+
+2. Source : Ein Mann fährt ein altmodisches rotes Rennauto.
+Target : A man drives an old - fashioned red race car.
+Predicted : A man in onto a fashioned red . man . man man man man man man
+
+
+Epoch No 81 completed. Total Training Loss : 91.80818939208984
+
+
+Training : 
+Starting Epoch No : 82
+Sample Output After Epoch No : 82 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Fußballspieler laufen auf der grünen Wiese auf einander zu.
+Target : Football players charge toward each other on the green field.
+Predicted : Soccer players are toward each other in the green field . .
+
+
+
+2. Source : Eine Frau trägt blaue Shorts, eine gelbe Bluse und eine Sonnenbrille.
+Target : A woman is wearing blue shorts, a yellow blouse, and sunglasses.
+Predicted : A woman is wearing blue short and and yellow blouse and and sunglasses . . . . .
+
+
+Epoch No 82 completed. Total Training Loss : 38.489990234375
+
+
+Validation : 
+Starting Epoch No : 82
+Sample Output After Epoch No : 82 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Paar und zwei Mädchen blicken über ein transparentes Geländer.
+Target : A couple and two girls are looking over a clear railing.
+Predicted : A couple girl girl girls sleeping looking down looking clear railing . . . . . . . . . . . . . . . . .
+
+
+
+2. Source : Ein Boot mit Menschen und ihrem Hab und Gut befindet sich im Wasser.
+Target : A boat with people and their belongings is in the water.
+Predicted : A small is a and red up are playing a crowd located red red red red red red red red red red red red red red red red
+
+
+Epoch No 82 completed. Total Training Loss : 87.64461517333984
+
+
+Training : 
+Starting Epoch No : 83
+Sample Output After Epoch No : 83 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Kind hüpft über ein Loch im Boden.
+Target : A child is jumping over a hole in the ground.
+Predicted : A child is jumping over the hole in the ground . . . .
+
+
+
+2. Source : Ein Mann mit einem schwarzen Hut steht und schützt seine Augen.
+Target : A man with a black hat is standing and shading his eyes.
+Predicted : A man with a black hat and standing and shading his eyes . . . . . . . . . . .
+
+
+Epoch No 83 completed. Total Training Loss : 37.82503128051758
+
+
+Validation : 
+Starting Epoch No : 83
+Sample Output After Epoch No : 83 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Sänger beim Stagediving in der Menschenmenge.
+Target : A singer doing a stage dive into the crowd.
+Predicted : A singer doing in stage dive into the crowd . man man man man man man man man man man man man man man man man man man man man
+
+
+
+2. Source : Ein Mann mit Reitstiefeln und einem Helm reitet auf einem weißen Pferd und das Pferd springt über ein Hindernis.
+Target : A man wearing riding boots and a helmet is riding a white horse, and the horse is jumping a hurdle.
+Predicted : A man in glasses in on white white on riding . white horse . while white street on walking off hurdle . race . . race race . . race
+
+
+Epoch No 83 completed. Total Training Loss : 87.91365814208984
+
+
+Training : 
+Starting Epoch No : 84
+Sample Output After Epoch No : 84 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann mit Schutzausrüstung schleift einen großen Metallgegenstand.
+Target : A man wearing protective gear grinds down a large metal object.
+Predicted : A man in protective gear is down a large metal object . . hanging.
+
+
+
+2. Source : Eine Frau singt auf einer Bühne, während ein Mann ihren Gesang auf einem Instrument begleitet.
+Target : A woman sings on stage as a man plays an instrument in unison with her vocals.
+Predicted : A woman sings on stage singing a man plays an instrument with unison with her headphones . . . . . . . . . . out.
+
+
+Epoch No 84 completed. Total Training Loss : 37.41459274291992
+
+
+Validation : 
+Starting Epoch No : 84
+Sample Output After Epoch No : 84 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Person in einem roten Langarmshirt liegt auf sehr ungewöhnliche Art auf einer Mauer vor einem Laternenpfahl.
+Target : A person wearing a red long - sleeved shirt is lying down on a wall in front of a lamp post in a very unusual manner.
+Predicted : A person wearing a red shirt a shirt shirt is standing a the a very with a of a very post shirt a very unusual manner . muddy a
+
+
+
+2. Source : Ein Bauarbeiter in einer orangen Weste verlegt Kopfsteinpflaster.
+Target : A construction worker in an orange vest lays down cobblestones.
+Predicted : sits construction worker performing a green vest lays down cobblestones . man kissing kissing kissing kissing kissing kissing kissing kissing kissing kissing groom kissing kissing kissing groom kissing
+
+
+Epoch No 84 completed. Total Training Loss : 80.04768371582031
+
+
+Training : 
+Starting Epoch No : 85
+Sample Output After Epoch No : 85 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Gruppe sitzt auf einem grasbewachsenen Hügel und ruht sich aus.
+Target : Group sitting on a grassy hill resting.
+Predicted : A of on a grassy hill and . .
+
+
+
+2. Source : Eine Band spielt vor einem Publikum.
+Target : Band playing in front of a crowd.
+Predicted : A playing in front of a crowd . . . . . .
+
+
+Epoch No 85 completed. Total Training Loss : 36.518638610839844
+
+
+Validation : 
+Starting Epoch No : 85
+Sample Output After Epoch No : 85 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann hält der Kamera ein Trinkglas entgegen.
+Target : A man holding a drinking glass at the camera.
+Predicted : A man is a black and of . camera . man . man . . man . posing posing . . . . . . .
+
+
+
+2. Source : Kinder werden in einem Glaskreisel herumgewirbelt.
+Target : Kids being spun around in a glass spinner.
+Predicted : Kids being spun around in blue blue spinner . man man man man man man man man man man man man man man man man man man man man man man man man man
+
+
+Epoch No 85 completed. Total Training Loss : 83.11752319335938
+
+
+Training : 
+Starting Epoch No : 86
+Sample Output After Epoch No : 86 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Männer fahren bei einem Rennen in gelben Kajaks.
+Target : Two men are kayaking in yellow kayaks in a race.
+Predicted : Two men are kayaking in a kayaks . a race . . . . . pool
+
+
+
+2. Source : Ein Mann jongliert am Strand.
+Target : A man juggles at the beach.
+Predicted : A man juggles at the beach . . . . . .
+
+
+Epoch No 86 completed. Total Training Loss : 36.85820388793945
+
+
+Validation : 
+Starting Epoch No : 86
+Sample Output After Epoch No : 86 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Mehrere Körper prallen bei einem Fußballspiel aufeinander.
+Target : Multiple bodies collide in a soccer match.
+Predicted : one bodies bodies in a soccer match . game block game man man man man man man in man man man man red man in man in
+
+
+
+2. Source : Ein kleines rothaariges Mädchen in einem Spidermananzug reitet auf einem Spielzeugpferd.
+Target : A little redheaded girl wears a Spider - Man suit while riding a play horse.
+Predicted : A young redheaded girl wears girl Spider - Man in while riding a store horse . . . . . cap . . . . . cap
+
+
+Epoch No 86 completed. Total Training Loss : 75.85733795166016
+
+
+Training : 
+Starting Epoch No : 87
+Sample Output After Epoch No : 87 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann schweißt etwas auf einem Betonschalstein.
+Target : A man is welding something on a cinder block.
+Predicted : A man is welding something on a cinder block . . . . . . . . . .
+
+
+
+2. Source : Zwei Personen fahren auf einem Skilift mit Bergen hinter ihnen.
+Target : Two people are riding a ski lift with mountains behind them.
+Predicted : Two people are riding on ski lift with mountains behind them . . it . .
+
+
+Epoch No 87 completed. Total Training Loss : 36.17136001586914
+
+
+Validation : 
+Starting Epoch No : 87
+Sample Output After Epoch No : 87 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Gruppe von Freunden liegt ausgestreckt auf dem Boden und genießt die gemeinsame Zeit.
+Target : A group of friends lay sprawled out on the floor enjoying their time together.
+Predicted : A group of marines lay sprawled of of of floor . their . . . . . . . . . . hold . look . . . . . . . .
+
+
+
+2. Source : Frau mit zwei Medaillen um den Hals hält sieben Finger nach oben.
+Target : Woman with two medals around her neck, holding up seven fingers.
+Predicted : Woman walking people change around goers neck have holding up seven . and and and man man and and and and and
+
+
+Epoch No 87 completed. Total Training Loss : 86.55805206298828
+
+
+Training : 
+Starting Epoch No : 88
+Sample Output After Epoch No : 88 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Gruppe von Personen säubert verschiedene Meerestiere.
+Target : A group of people cleaning some kins of sea animal.
+Predicted : A group of people cleaning some storage of sea animal . . . . . . . . . .
+
+
+
+2. Source : Zwei Pferde rennen die Strecke entlang, wobei Nummer vier vor Nummer fünf liegt.
+Target : Two race horses run down the track with number four ahead of number five.
+Predicted : Two race horses run through the track with number number ahead of number four . number . .
+
+
+Epoch No 88 completed. Total Training Loss : 35.30242156982422
+
+
+Validation : 
+Starting Epoch No : 88
+Sample Output After Epoch No : 88 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Drei Männer stehen in der Nähe einiger Motorräder um einen Wagen.
+Target : Three men stand around a cart near some motorcycles.
+Predicted : Three men standing around a cart near a motorcycles . man man man some some man man . . . man . . in man . in in . . . in
+
+
+
+2. Source : Einige Männer sitzen in einem Boot in der Nähe eines Strandes, der mit gestapelten Holzstämmen und Stöcken bedeckt ist.
+Target : Some men are sitting on a boat near a beach covered in stacked logs and sticks.
+Predicted : sits men appear looking on a blue and a beach and sticks a logs and sticks . . . . . look look and . . . . . . . .
+
+
+Epoch No 88 completed. Total Training Loss : 69.79338073730469
+
+
+Training : 
+Starting Epoch No : 89
+Sample Output After Epoch No : 89 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann mit einem weißen Hut auf einem Motorroller.
+Target : A man with a white hat on a scooter.
+Predicted : A man with a white hat on a scooter . . .
+
+
+
+2. Source : Männer und Frauen treten mit farbigen Stangen in der Hand auf einer Bühne auf.
+Target : Men and women on stage holding poles with colors and performing.
+Predicted : Men and women on stage with poles with colors and colorful . .
+
+
+Epoch No 89 completed. Total Training Loss : 34.40298843383789
+
+
+Validation : 
+Starting Epoch No : 89
+Sample Output After Epoch No : 89 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann klettert mit angelegtem Auffanggurt eine steile Felswand hinauf
+Target : A man is climbing a steep rock wall with a safety harness on
+Predicted : A man wearing climbing object rock rock wall stands green rock harness man man . . . . . . . .
+
+
+
+2. Source : Ein Typ macht ein Fahrradkunststück in einem Park.
+Target : A guy is doing a bike trick in a park.
+Predicted : A guy with doing a bike trick . . park . . . . . . . . . . . .
+
+
+Epoch No 89 completed. Total Training Loss : 101.39352416992188
+
+
+Training : 
+Starting Epoch No : 90
+Sample Output After Epoch No : 90 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Dame mit schwarzem Mantel und grauem Schal trägt Einkaufstüten.
+Target : A lady in a black coat and a gray scarf is carrying shopping bags.
+Predicted : A lady wearing a black coat and a scarf scarf is carrying shopping bags . . . . .
+
+
+
+2. Source : Eine alte Dame trägt einen Hut und lächelt.
+Target : An old lady wearing a hat and smiling.
+Predicted : An old lady wearing a hat and smiling . . . . .
+
+
+Epoch No 90 completed. Total Training Loss : 34.387855529785156
+
+
+Validation : 
+Starting Epoch No : 90
+Sample Output After Epoch No : 90 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Hunde rennen und spielen im Schnee
+Target : Two dogs are running and playing in the snow
+Predicted : Two dogs play running and a in the snow . . and . and and and and man and and and and man and and . and . man a and
+
+
+
+2. Source : Ein Jugend-Footballspiel, bei dem drei Jugendliche um den Football kämpfen.
+Target : A youth football game wherein three youths are fighting for a football.
+Predicted : A youth football, up three youths are fighting for . football . man . . . man
+
+
+Epoch No 90 completed. Total Training Loss : 70.87533569335938
+
+
+Training : 
+Starting Epoch No : 91
+Sample Output After Epoch No : 91 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Frau in rotem Hemd hält den Arm in die Höhe.
+Target : A woman in a red shirt with her arm raised.
+Predicted : A woman in a red shirt is her arm raised . . .
+
+
+
+2. Source : Sechs Kinder rennen über eine von Bäumen umgebene Blumenwiese.
+Target : Six children running through a field of flowers surrounded by trees.
+Predicted : Six children are in a field of flowers surrounded by trees . . . .
+
+
+Epoch No 91 completed. Total Training Loss : 32.73136520385742
+
+
+Validation : 
+Starting Epoch No : 91
+Sample Output After Epoch No : 91 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine ältere Asiatin trägt eine Baskenmütze, eine Sonnenbrille, einen gelben Schal und eine karierte Jacke.
+Target : An elderly Asian woman is wearing a beret, sunglasses, a yellow scarf, and a plaid jacket.
+Predicted : A elderly Asian woman is making at beret, sunglasses, sunglasses yellow scarf, and work plaid jacket . . . . . . . . . . . . .
+
+
+
+2. Source : Eine Menschenmenge steht am Startpunkt eines Marathons herum.
+Target : A crowd loiters near the start of a marathon.
+Predicted : A crowd of near green leaves of people marathon . . . man . . . . man . . . . . . . . . . . . . .
+
+
+Epoch No 91 completed. Total Training Loss : 81.17041778564453
+
+
+Training : 
+Starting Epoch No : 92
+Sample Output After Epoch No : 92 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Turnerin in einem rot-blauen Trikot macht einen Rückwärtssalto auf dem Schwebebalken.
+Target : A female gymnast in a red and blue leotard does a back flip on the balance beam.
+Predicted : A female gymnast in a red and blue leotard doing a flip flip off a balance beam . . . . . . . . . . . .
+
+
+
+2. Source : Ein Fahrradfahrer mit Sturzhelm fährt eine steile Rampe hinunter.
+Target : A bicyclist wearing a helment riding down a steep ramp
+Predicted : A bicyclist wearing a helment riding down a steep ramp . . . . . . . . . . . . . . .
+
+
+Epoch No 92 completed. Total Training Loss : 33.075164794921875
+
+
+Validation : 
+Starting Epoch No : 92
+Sample Output After Epoch No : 92 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine aufwendig kostümierte Figur vor einem prächtig geschmückten Bauwerk.
+Target : An elaborate costumed figure is in front of a brightly decorated structure.
+Predicted : A older costumed figure dog in a of a brightly decorated structure . . decorated race decorated . on race nose display table more race man race more nose.
+
+
+
+2. Source : Der führende Radfahrer strampelt um sein Leben, als konkurrierende Länder von hinten aufschließen.
+Target : The bike leader pedals for his life as competing countries gain his tail.
+Predicted : The bike leader pedals for his life as competing in gain a tail . stick appears appears appears man man man man man man man man man man man man
+
+
+Epoch No 92 completed. Total Training Loss : 66.27225494384766
+
+
+Training : 
+Starting Epoch No : 93
+Sample Output After Epoch No : 93 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Sechs Personen wandern in einer verschneiten Landschaft.
+Target : Six people hiking in a snowy landscape.
+Predicted : Six people are in a snowy landscape . . . . .
+
+
+
+2. Source : Zwei Männer sitzen auf Bürostühlen und schauen ein Bild auf einem großen Bildschirm vor ihnen an.
+Target : Two men sitting in office chairs looking at an image on a large screen in front of them.
+Predicted : Two men sitting in front chairs looking at a image on a large screen in front of them . . . them . . them . . . . them
+
+
+Epoch No 93 completed. Total Training Loss : 32.85127258300781
+
+
+Validation : 
+Starting Epoch No : 93
+Sample Output After Epoch No : 93 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine junge Frau in einem pinkfarbenen Shirt versucht bei einem Rodeo, ein Kalb einzufangen.
+Target : A young woman in a pink shirt attempting to rope a calf at the rodeo.
+Predicted : A woman woman in jagged pink reads attempting to rope with pink Football an background . sidewalk sidewalk sidewalk . sidewalk sidewalk . sidewalk . sidewalk sidewalk . sidewalk sidewalk
+
+
+
+2. Source : Eine Person beim Drachenfliegen auf dem Meer.
+Target : A person is hang gliding in the ocean.
+Predicted : A person laying hang gliding hussars front ocean . trail instruments trail . . . . . . nation man man man lower nation ocean jump man look ocean
+
+
+Epoch No 93 completed. Total Training Loss : 76.35795593261719
+
+
+Training : 
+Starting Epoch No : 94
+Sample Output After Epoch No : 94 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann in einem T-Shirt und Lungi trägt einen Bündeln von Stroh auf seinem Kopf über ein Ackerland.
+Target : A man, wearing a shirt and a lungi, is carrying bundles of straw on his head across a farmland.
+Predicted : A man wearing wearing a blue and a Men, carrying carrying straw of straw on his head across a desolate . walks . " . . . . .
+
+
+
+2. Source : Der Mann in Blau posiert neben seinem Auto für ein Foto.
+Target : The man in the blue is posing for a picture next to his car.
+Predicted : The man in blue blue is posing for a picture next to his car . . .
+
+
+Epoch No 94 completed. Total Training Loss : 32.16188049316406
+
+
+Validation : 
+Starting Epoch No : 94
+Sample Output After Epoch No : 94 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann zieht seinen Pullover an, während zu seinen Füßen ein Kajak liegt.
+Target : A man pulls on his sweater as a kayak lays at his feet.
+Predicted : A man in hut a sweater a a kayak lays at a feet . . . . . . . .
+
+
+
+2. Source : Ein Mann beim Wakeboarden im Wasser.
+Target : A man wakeboards in the water.
+Predicted : A man is in the water . . . . . . . .
+
+
+Epoch No 94 completed. Total Training Loss : 63.80532455444336
+
+
+Training : 
+Starting Epoch No : 95
+Sample Output After Epoch No : 95 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein weißer Hund rennt durchs Gras.
+Target : A white dog running through the grass.
+Predicted : A white dog is through the grass . . . . .
+
+
+
+2. Source : Ein fröhliches Kind in einem T-Shirt mit Elmo-Motiv sitzt auf dem Rücksitz im Auto.
+Target : A happy child with an Elmo shirt in the back of a car.
+Predicted : A happy child with an Elmo t in the back of a car . in in in
+
+
+Epoch No 95 completed. Total Training Loss : 31.40949821472168
+
+
+Validation : 
+Starting Epoch No : 95
+Sample Output After Epoch No : 95 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Frau in einer gelben Jacke folgt zwei anderen Frauen.
+Target : A woman in a yellow jacket following two other women.
+Predicted : A woman and of yellow t following two other on on on on on on on on on on on on on on on on outdoors on on on on
+
+
+
+2. Source : Ein Mann sitzt auf den Stufen vor einer Haustür.
+Target : A man is sitting on door steps in front of a house.
+Predicted : A man with sitting on door steps in front of on house . . . . .
+
+
+Epoch No 95 completed. Total Training Loss : 66.38357543945312
+
+
+Training : 
+Starting Epoch No : 96
+Sample Output After Epoch No : 96 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Frau macht Gymnastik und ein Mann macht ein Foto von ihr in der Luft.
+Target : A woman is doing gymnastics while a man takes a picture of her in midair.
+Predicted : A woman is performing gymnastics while the female takes a picture of her takes the . . . .
+
+
+
+2. Source : Ein kleiner Junge verkauft gerade Ziegen.
+Target : A young boy is in the middle of a sale of goats
+Predicted : A little boy is in a middle of the sale of goats . . . . . . . . . . . of of
+
+
+Epoch No 96 completed. Total Training Loss : 30.740894317626953
+
+
+Validation : 
+Starting Epoch No : 96
+Sample Output After Epoch No : 96 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann mit einer roten Baseballkappe lehnt an einem Laternenpfahl.
+Target : A man in a red baseball cap is leaning against a light pole.
+Predicted : A man in a red baseball cap is leaning against a light pole . . . . . . .
+
+
+
+2. Source : Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+Target : A balding man wearing a red life jacket is sitting in a small boat.
+Predicted : A man man in a red jacket balding is sitting in a man boat . sitting sitting . sitting sitting sitting . man man man man sitting
+
+
+Epoch No 96 completed. Total Training Loss : 68.19554901123047
+
+
+Training : 
+Starting Epoch No : 97
+Sample Output After Epoch No : 97 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann mit grüner Jacke und Strickmütze auf einem Markt im Freien sortiert Tomaten.
+Target : A man wearing a green jacket and knit hat is sorting tomatoes at an outdoor market.
+Predicted : A man in a jacket jacket and knit hat is sorting tomatoes at an outdoor market . . . . . . .
+
+
+
+2. Source : Ein Mann steht vor einer weißen Wand, mit einer Geschäftsanzeige.
+Target : A man is standing in front of a white wall with a business advertisement on it.
+Predicted : A man is standing in front of a white wall with a white advertisement on it . . . . . . .
+
+
+Epoch No 97 completed. Total Training Loss : 31.183902740478516
+
+
+Validation : 
+Starting Epoch No : 97
+Sample Output After Epoch No : 97 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Das Bild zeigt das Spiegelbild eines Mannes und einer Frau an irgendeiner Art von Terminal.
+Target : The image shows the reflection of a man and woman located at a terminal of some sort.
+Predicted : The lady shows as reflection of a man woman located at life terminal of some sort . son son son son son . son son son son
+
+
+
+2. Source : Frau im Mantel bei Schneefall vor einem Haus
+Target : Woman in coat outside a house while snowing
+Predicted : Woman is a park for house while snowing park while . . while . . man
+
+
+Epoch No 97 completed. Total Training Loss : 70.9899673461914
+
+
+Training : 
+Starting Epoch No : 98
+Sample Output After Epoch No : 98 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann auf einem Motorrad rast und in der Ferne ist ein Auto.
+Target : A man on a motorcycle racing a car in the distance.
+Predicted : A man on a motorcycle racing a car in the distance . . . .
+
+
+
+2. Source : Eine Frau sieht vor einem Café in ihre Geldbörse.
+Target : A woman checks her purse while at a outside cafe.
+Predicted : A woman checks her purse outside at a outside cafe . . . stand . . . . . . .
+
+
+Epoch No 98 completed. Total Training Loss : 30.84282112121582
+
+
+Validation : 
+Starting Epoch No : 98
+Sample Output After Epoch No : 98 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Junge in einem orangen T-Shirt lächelt, während ihn ein Junge in einem blauen T-Shirt ansieht.
+Target : A boy with an orange shirt smiles, while a boy in a blue shirt looks on.
+Predicted : A woman smiles a orange shirt a, a a blue in a blue . . . a . . . . . . . . . the
+
+
+
+2. Source : Ein mittelgroßer weißer Hund springt hoch, um eine kleine Frisbeescheibe aus Stoff zu fangen.
+Target : A medium sized white dog is jumping up to catch a small cloth Frisbee.
+Predicted : A reaches sized white dog . jumping in to some of small cloth Frisbee . camera modern modern camera camera man man camera goers man man man modern
+
+
+Epoch No 98 completed. Total Training Loss : 73.48500061035156
+
+
+Training : 
+Starting Epoch No : 99
+Sample Output After Epoch No : 99 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Frau in einer Schürze sucht nach Brot.
+Target : A woman in an apron is looking for bread.
+Predicted : A woman in an apron is looking for bread . . . . .
+
+
+
+2. Source : Ein Mann in weißem T-Shirt und beigefarbenen Shorts liegt schlafend auf einem schwarzen Sofa.
+Target : A man in a white t - shirt and beige shorts lies asleep on a black sofa.
+Predicted : A man in a beige t - shirt and black shorts lies asleep on a black sofa . . . . . . . . . .
+
+
+Epoch No 99 completed. Total Training Loss : 30.991437911987305
+
+
+Validation : 
+Starting Epoch No : 99
+Sample Output After Epoch No : 99 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Paar sitzt auf einer Bank und unterhält sich, während im Hintergrund eine Frau einen Hund spazieren führt.
+Target : A couple sits on a bench talking, while a woman walks a dog in the background.
+Predicted : A couple of group their bench along to while holding woman walks past woman ice an background . . swim swim . . .
+
+
+
+2. Source : Ein Kind geht vor einem anderen.
+Target : One child is walking ahead of the other.
+Predicted : A child is walking with of a air man man man man man man man man of of of of man of man of
+
+
+Epoch No 99 completed. Total Training Loss : 70.3065185546875
+
+
+Training : 
+Starting Epoch No : 100
+Sample Output After Epoch No : 100 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Der weiße Hund trägt einen Ball im Maul.
+Target : The white dog is carrying a ball in its mouth.
+Predicted : The white dog is carrying a ball in its mouth . . . . . . .
+
+
+
+2. Source : Ein Hund schwimmt im Wasser und hält dabei einen Stock im Maul.
+Target : A dog swims through the water while holding a stick in its mouth.
+Predicted : A dog swims in water water holding holding a stick in its mouth . .
+
+
+Epoch No 100 completed. Total Training Loss : 29.940696716308594
+
+
+Validation : 
+Starting Epoch No : 100
+Sample Output After Epoch No : 100 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann in Blau fährt mit einem Fahrrad auf einer Piste.
+Target : A man in blue is riding a bicycle on a track.
+Predicted : A man in a a riding a track on a track . on on on.
+
+
+
+2. Source : Der große braune Hund rennt durch seichtes Wasser.
+Target : The large brown dog is running through shallow water.
+Predicted : The young brown dog is running through the and . man man man the the the the the the man the the the the the man man the
+
+
+Epoch No 100 completed. Total Training Loss : 59.67593002319336
+
+
+Training : 
+Starting Epoch No : 101
+Sample Output After Epoch No : 101 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mädchen in einem gelben Hemd der EL Dorado Elementary School zeigt mit den Fingern die Größe von etwas an.
+Target : A girl with a yellow EL Dorado Elementary School shirt on showing the size of something using her fingers.
+Predicted : A girl with a yellow EL Dorado Elementary School shirt on showing her size of something using her fingers . . . . .
+
+
+
+2. Source : Eine lächelnde Frau und eine Mann sitzen vor einem Mikrofon in einem Aufnahmestudio.
+Target : A smiling woman and man are seated in front of a microphone in a music studio.
+Predicted : A woman woman and a in sitting in front of a microphone in a music studio . machine room machine machine . room . band machine
+
+
+Epoch No 101 completed. Total Training Loss : 30.082792282104492
+
+
+Validation : 
+Starting Epoch No : 101
+Sample Output After Epoch No : 101 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann in einem roten T-Shirt steht mit zwei Mädchen vor einem alten Bauwerk.
+Target : A man in a red shirt is standing with two fitls in front of an old structure.
+Predicted : A man with a red shirt is standing with two fitls in front of an old structure . goers goers goers goers goers goers goers goers goers goers goers goers goers
+
+
+
+2. Source : Die Menschen sind dick in mehrere Schichten gekleidet und machen gemeinsame Bewegungen.
+Target : The people are dressed in heavy layered clothing, and are motioning together.
+Predicted : The people are dressed are jagged layered clothing, are are motioning together man man
+
+
+Epoch No 101 completed. Total Training Loss : 67.85234832763672
+
+
+Training : 
+Starting Epoch No : 102
+Sample Output After Epoch No : 102 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Typen in einem fremden Land grillen, während um sie herum Menschen gehen.
+Target : Two guys in a foreign country cooking over a grill with people walking around them.
+Predicted : Two guys in a foreign country cooking over a grill . people walking around them . . . . . . . . . . . . .
+
+
+
+2. Source : Ein Mädchen und eine Frau posieren, während sie auf einer Treppe, die mit Teppichboden bedeckt ist, sitzen.
+Target : A girl and woman are posing while sitting on a carpeted staircase.
+Predicted : A girl and a are posing while sitting on a floor staircase . .,
+
+
+Epoch No 102 completed. Total Training Loss : 29.41055679321289
+
+
+Validation : 
+Starting Epoch No : 102
+Sample Output After Epoch No : 102 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann und eine Frau tauschen einen Fahrradschlauch aus.
+Target : A man and woman are working on replacing a bike tire tube.
+Predicted : A man and a are walking on a . bike . . . . on . . . . . . .
+
+
+
+2. Source : Vier Menschen protestieren gegen die Behandlung junger Arbeiter durch Equinox.
+Target : Four people are protesting the treatment of young workers by Equinox.
+Predicted : Four people protesting protesting the treatment of a workers by a . high high elderly colorful across outside post on high on post post post high post high
+
+
+Epoch No 102 completed. Total Training Loss : 54.91527557373047
+
+
+Training : 
+Starting Epoch No : 103
+Sample Output After Epoch No : 103 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei Arbeiter in orange Westen, gehen an einem Lieferwagen und Gefahrenkegeln vorbei.
+Target : Two workers in orange vests walk by delivery truck and hazard cones.
+Predicted : Two workers in orange vests walk by a truck and hazard cones.
+
+
+
+2. Source : Eine Gruppe multiethnischer Jugendlicher sitzt im Kreis auf einer Wiese neben einem Berg.
+Target : A group of multi - ethnic young people sit in a circle on grass next to a hill.
+Predicted : A group of multi - ethnic young people sit in a circle near a next to a field . . . . mountain
+
+
+Epoch No 103 completed. Total Training Loss : 28.805818557739258
+
+
+Validation : 
+Starting Epoch No : 103
+Sample Output After Epoch No : 103 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann fährt ein altmodisches rotes Rennauto.
+Target : A man drives an old - fashioned red race car.
+Predicted : A man is his onto - fashioned red race . . man man man
+
+
+
+2. Source : Eine Person sitzt vor einer Menschenmenge auf einem Stuhl.
+Target : A person sitting on chair in front of a crowd.
+Predicted : A person sitting on chair in front of a crowd . man . . man man man . . . . man man . man man man man
+
+
+Epoch No 103 completed. Total Training Loss : 65.03524780273438
+
+
+Training : 
+Starting Epoch No : 104
+Sample Output After Epoch No : 104 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Broadway-Show beim Finale.
+Target : A broad way show at its finale.
+Predicted : A broad way show at its . . . . . . . . . . . . . . .
+
+
+
+2. Source : Ein Mädchen in roten Schuhen fährt auf dem Bürgersteig Skateboard.
+Target : A girl skateboarding in red shoes on pavement
+Predicted : A girl with in red shoes on pavement . onto . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+Epoch No 104 completed. Total Training Loss : 28.545534133911133
+
+
+Validation : 
+Starting Epoch No : 104
+Sample Output After Epoch No : 104 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Frau wird auf einem Jahrmarkt von einem Clown unterhalten.
+Target : A woman being entertained by a clown at a local fair.
+Predicted : A woman being entertained by a local in a local . . on on on . . . . . . . . . . . . . . . . .
+
+
+
+2. Source : Ein behelmter Radfahrer fliegt über eine Rampe im Wald.
+Target : A helmeted biker flying off a ramp in the woods.
+Predicted : A helmeted biker in a a ramp in the woods . . . . . . . . . . . . . . . . . . . . . .
+
+
+Epoch No 104 completed. Total Training Loss : 56.03008270263672
+
+
+Training : 
+Starting Epoch No : 105
+Sample Output After Epoch No : 105 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Drei Mädchen springen mit einem Ausdruck der Begeisterung in die Luft.
+Target : Three girls jump into the air with expressions of excitement.
+Predicted : Three girls are into the air with an of excitement . .
+
+
+
+2. Source : Mehrere junge Mädchen gehen eine Straße hinunter.
+Target : A group of young girls walking down a street.
+Predicted : A group of young girls walking down a city . .
+
+
+Epoch No 105 completed. Total Training Loss : 28.286134719848633
+
+
+Validation : 
+Starting Epoch No : 105
+Sample Output After Epoch No : 105 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Einem Jungen werden von einem anderen Jungen die Haare abrasiert.
+Target : A boy getting his hair buzzed off by another boy.
+Predicted : There boy with his two are off by another boy . 3 structure structure structure man enjoy . enjoy . enjoy man enjoy . sitting enjoy enjoy . structure cone
+
+
+
+2. Source : Eine Person in einem gelben Zeichentrickkostüm in einem öffentlichen Bereich.
+Target : A person dressed in a yellow animated costume in a public area.
+Predicted : A person dressed in yellow yellow animated at area public area.
+
+
+Epoch No 105 completed. Total Training Loss : 64.3912353515625
+
+
+Training : 
+Starting Epoch No : 106
+Sample Output After Epoch No : 106 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Jugendlicher steht im Spritzwasser von einem Brunnen unter einem bewölkten blauen Himmel.
+Target : Young person stands in spray from a fountain under a cloudy blue sky.
+Predicted : A person stands in spray from a fountain under a cloudy blue sky . . . blue blue.
+
+
+
+2. Source : Ein Mann trägt viele Taschen voller Dosen, möglicherweise um sie als Schrott zu verkaufen.
+Target : A man carrying many bags of cans probably going to sell the for scraps.
+Predicted : A man carrying many bags of cans probably going to sell the for for . . " . . . . . . . . .
+
+
+Epoch No 106 completed. Total Training Loss : 27.91533660888672
+
+
+Validation : 
+Starting Epoch No : 106
+Sample Output After Epoch No : 106 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein brauner Hund rennt mit einem Stock im Maul über den Sand.
+Target : A brown dog runs on the sand carrying a stick.
+Predicted : A brown girl runs a a sand carrying a stick . a . outside light pushing across across . a a sign his
+
+
+
+2. Source : Ein Mann mit Sonnenbrille hilft einem Kind mit Sonnenbrille eine Rutsche herunterzurutschen.
+Target : A man with sunglasses is helping a child with sunglasses slide down a slide.
+Predicted : A man in sunglasses is helping a child some a slide in a slide . . . . . . . . . . . .
+
+
+Epoch No 106 completed. Total Training Loss : 52.570350646972656
+
+
+Training : 
+Starting Epoch No : 107
+Sample Output After Epoch No : 107 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann in Geschäftskleidung steht an einer Straßenecke.
+Target : A man in business attire stands a street corner.
+Predicted : A man in business attire stands on street corner . . . . .
+
+
+
+2. Source : Drei Frauen in unterschiedlichem Alter mit weißen Kleidern sitzen in einer staubigen Lichtung vor Bäumen.
+Target : Three women of different ages in white dresses sitting in a dusty clearing in front of trees.
+Predicted : Three women of different ages in white dresses sitting in a dusty clearing in front of a . . . . . . . . . . . . .
+
+
+Epoch No 107 completed. Total Training Loss : 27.85537338256836
+
+
+Validation : 
+Starting Epoch No : 107
+Sample Output After Epoch No : 107 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Straßenkünstler in einem orangen Overall fährt auf einem großen Einrad, während eine Menschenmenge zusieht
+Target : A street performer in an orange jumpsuit rides a tall unicycle as a crowd watches
+Predicted : A street performer at an orange jagged rides an tall unicycle as the crowd . . . . . . . . . . . . . . . .
+
+
+
+2. Source : Der große braune Hund jagt dem kleinen braunen Hund hinterher.
+Target : The large brown dog is chasing after the little brown dog.
+Predicted : The large brown dog is chasing after the little brown man brown man man man man man man man man man man man man
+
+
+Epoch No 107 completed. Total Training Loss : 62.07386779785156
+
+
+Training : 
+Starting Epoch No : 108
+Sample Output After Epoch No : 108 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann in kariertem Hemd steht neben einem Schutthaufen.
+Target : A man in a plaid shirt is standing near a pile of rubble.
+Predicted : A man in a plaid shirt standing standing next a pile of rubble . . . . . . . . . . . . . . . . . . . .
+
+
+
+2. Source : Ein Feuerwehrmann versucht, über Brandschutt zu klettern.
+Target : A firefighter is shown trying to climb into some debris.
+Predicted : A firefighter is shown trying to climb some the debris . . . . . . . . . . . . . . . . .
+
+
+Epoch No 108 completed. Total Training Loss : 27.435606002807617
+
+
+Validation : 
+Starting Epoch No : 108
+Sample Output After Epoch No : 108 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Menschen verrichten Landschaftspflege- und Gartenarbeiten in den Bereichen um den Fußgängerweg.
+Target : People landscaping and gardening the areas around the walkway.
+Predicted : People long and wearing a areas around a walkway . man man army man man the Some Some Some a man a army army a army
+
+
+
+2. Source : Der Mann mit dem weißen Gürtel und der Sonnenbrille hält die Hand des Mädchens.
+Target : The man in the white belt and sunglasses is holding the girl's hand.
+Predicted : The man in a white belt and sunglasses is holding a girl . hand . climbing . climbing across climbing.
+
+
+Epoch No 108 completed. Total Training Loss : 52.84777069091797
+
+
+Training : 
+Starting Epoch No : 109
+Sample Output After Epoch No : 109 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein bärtiger Mann in blauer Jacke geht die Straße entlang.
+Target : Bearded man in a blue jacket walking down the street.
+Predicted : A man in blue blue jacket walking down a street . . . .
+
+
+
+2. Source : Ein Junge mit weißem Puder und blauer Schrift auf dem Gesicht.
+Target : Boy with white powder and blue writing on his face
+Predicted : Boy with white head and blue writing on his face . . . . . . . . . . . . . . . .
+
+
+Epoch No 109 completed. Total Training Loss : 26.78322410583496
+
+
+Validation : 
+Starting Epoch No : 109
+Sample Output After Epoch No : 109 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann in einem gelben Hemd steht auf dem Gehweg und nimmt Messungen vor.
+Target : A man in a yellow shirt is standing in the sidewalk measuring.
+Predicted : A man in a yellow shirt is standing on the sidewalk . . . . . . . . . . . . . . . . . . . .
+
+
+
+2. Source : Dem Mädchen wird eine Frisbeescheibe zugeworfen, während das andere Mädchen darum zu bitten scheint.
+Target : A frisbee is being thrown to the girl while the other girl appears to be asking for it.
+Predicted : The guy is being thrown to the girl while holding girl girl over to be throwing for the . sports . man man man man . man man kissing man man
+
+
+Epoch No 109 completed. Total Training Loss : 51.58850860595703
+
+
+Training : 
+Starting Epoch No : 110
+Sample Output After Epoch No : 110 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein als Weihnachtsmann verkleideter Mann fährt während eines Festumzugs in einer Kutsche.
+Target : A man dressed like Santa is riding in a carriage during a parade.
+Predicted : A man dressed as Santa is riding in a carriage during a parade . . . . . . . . . . . . . .
+
+
+
+2. Source : Eine Gruppe junger Erwachsene auf Fahrrädern.
+Target : A group of young adults on bikes
+Predicted : A group of young adults on bikes . . . . . . . . . . . . . . . . . . . . .
+
+
+Epoch No 110 completed. Total Training Loss : 27.08732795715332
+
+
+Validation : 
+Starting Epoch No : 110
+Sample Output After Epoch No : 110 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Gruppe von Menschen an einem kleinen Fluss inmitten einer Stadt.
+Target : A group of people are near a small river in the middle of a city.
+Predicted : A group of people are near a small river in front middle of a crowd . man man . . . . . man . . . man man . . . appears
+
+
+
+2. Source : Von Touristen aufgenommene Bilder bei einem Gebäude in China.
+Target : Tourist taken pictures at a building in China.
+Predicted : Tourist taken . at a building in a man man in man in man man man man man man man man man man in man man man man man man park man man
+
+
+Epoch No 110 completed. Total Training Loss : 52.772560119628906
+
+
+Training : 
+Starting Epoch No : 111
+Sample Output After Epoch No : 111 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Bullenreiter reitet auf einem buckelnden Bullen, während andere Cowboys zuschauen und darauf warten, bei Bedarf zu helfen.
+Target : A bull rider riding a bucking bull while other cowboys watch and wait to help him if needed.
+Predicted : A bull rider riding a bucking bull while other cowboys watch and wait to help him . needed . . . . . . . . . . . .
+
+
+
+2. Source : Eine Person in schwarzer Jacke steht in der Mitte der Straße.
+Target : A person in a black jacket in the middle of the road.
+Predicted : A person in a black jacket is the middle of the road . . . .
+
+
+Epoch No 111 completed. Total Training Loss : 26.403661727905273
+
+
+Validation : 
+Starting Epoch No : 111
+Sample Output After Epoch No : 111 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann mit Reitstiefeln und einem Helm reitet auf einem weißen Pferd und das Pferd springt über ein Hindernis.
+Target : A man wearing riding boots and a helmet is riding a white horse, and the horse is jumping a hurdle.
+Predicted : A man wearing a a and a lake is jumping the white horse on while the street . jumping . white . . . . . . . .
+
+
+
+2. Source : Zwei Mädchen sind nass und hinter ihnen ist eine Frau, die einen geöffneten Regenschirm hält.
+Target : Two girls are wet and behind them is a woman holding an open umbrella.
+Predicted : Two female are wet and behind them is a woman holding an open umbrella . . goers goers . goers . watch goers . goers . . . goers
+
+
+Epoch No 111 completed. Total Training Loss : 56.63069152832031
+
+
+Training : 
+Starting Epoch No : 112
+Sample Output After Epoch No : 112 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eingespielte Teams spielen eine bestimmte Art von Streethockey.
+Target : This version of street hockey is on between organized teams.
+Predicted : This version of street hockey is on between organized teams . . . .
+
+
+
+2. Source : Ein junger Mann mit rosa-weiß-gestreiftem Hemd sitzt neben einem jungen Mann mit einem braunen Hemd.
+Target : A young man wearing a pink and white striped shirt is sitting next to a young man wearing a brown shirt.
+Predicted : A young man wearing a pink and white shirt shirt sitting sitting next to a young man wearing a brown shirt . . . . . . .
+
+
+Epoch No 112 completed. Total Training Loss : 25.99496078491211
+
+
+Validation : 
+Starting Epoch No : 112
+Sample Output After Epoch No : 112 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Frau in einer gelben Jacke folgt zwei anderen Frauen.
+Target : A woman in a yellow jacket following two other women.
+Predicted : A woman in a yellow shirt is two other women and her demonstration her demonstration in in Some show show show in demonstration demonstration demonstration smiling smiling
+
+
+
+2. Source : Drei Männer treten bei einem Hürdenlauf gegeneinander an.
+Target : Three men competing in a hurdle race.
+Predicted : Three men ride in a hurdle race . . a . . . . man . . . . . . . . . . . . .
+
+
+Epoch No 112 completed. Total Training Loss : 51.895538330078125
+
+
+Training : 
+Starting Epoch No : 113
+Sample Output After Epoch No : 113 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein glatzköpfiger Mann, der auf einer Bühne sitzt und Gitarre spielt.
+Target : A bald man sitting on a stage playing a guitar.
+Predicted : A bald man sitting on a stage playing a guitar . . .
+
+
+
+2. Source : Schulkinder in ihren Uniformen sehen sich im Klassenzimmer um.
+Target : School children dressed in their uniforms look around at their surroundings in the classroom.
+Predicted : School children dressed in their uniforms . around at their surroundings in the classroom . . . . . . . . . . . .
+
+
+Epoch No 113 completed. Total Training Loss : 25.620500564575195
+
+
+Validation : 
+Starting Epoch No : 113
+Sample Output After Epoch No : 113 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann mit einer Behinderung, der keine Beine hat, geht neben einem anderen Mann, der zu einem Marathon angemeldet ist.
+Target : A man with a disability who doesn't have legs is walking with another man who is entered into a marathon.
+Predicted : A man in glasses white into doesn't is legs in walking by another man is another into marathon . . . . . . .
+
+
+
+2. Source : Mann sieht einer Frau in einer Bar beim Sprechen zu.
+Target : Man looks on as woman is talking while at a bar.
+Predicted : Man looks at as woman is sitting people sitting a bar . . . . . . . . . . . . . . . . .
+
+
+Epoch No 113 completed. Total Training Loss : 53.767024993896484
+
+
+Training : 
+Starting Epoch No : 114
+Sample Output After Epoch No : 114 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei kleine Mädchen in grüner und lilafarbener Kleidung lesen ein Buch.
+Target : Two little girls, one in green and one in purple, reading a book.
+Predicted : Two little girls, one in purple and one in purple, reading a book . . . . . . . . . . . . . .
+
+
+
+2. Source : Jeder auf der Straße in der Stadt scheint mit eigenen Dingen beschäftigt zu sein.
+Target : Everyone on the street in the city seem to be busy doing their own thing.
+Predicted : Young on the street in the city seem to be busy doing their own thing . . . . . . . . . . . . . .
+
+
+Epoch No 114 completed. Total Training Loss : 25.524534225463867
+
+
+Validation : 
+Starting Epoch No : 114
+Sample Output After Epoch No : 114 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann mit einem grünen Shirt küsst ein weinendes Kleinkind und sieht dabei den Läufern eines Straßenrennens zu.
+Target : A man in a green shirt is kissing a crying toddler whilst watching runners in a road race.
+Predicted : A man and a green shirt is kissing a crying toddler whilst watching with with a road race a hold hold change hold hold hold hold hold change change change hold hold hold
+
+
+
+2. Source : Mann auf einem Skateboard nutzt an einem sehr schönen Tag einen leeren Pool als Rampe.
+Target : Male on a skateboard, using an empty pool as a ramp on a very pretty day.
+Predicted : Man on a skateboard, using a empty pool as a very on a very pretty day . . . . on . . . . . . . . . . .
+
+
+Epoch No 114 completed. Total Training Loss : 48.195987701416016
+
+
+Training : 
+Starting Epoch No : 115
+Sample Output After Epoch No : 115 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Der Mann in einem dunkelblauen Hemd drückt eine Flasche zusammen, die mit einer goldfarbenen Substanz gefüllt ist.
+Target : The man in a dark blue shirt is squeezing a bottle filled with a gold - colored substance.
+Predicted : The man in a dark blue shirt is squeezing a bottle filled with a gold - colored substance . . . . . .
+
+
+
+2. Source : Ein Mann in einem orangen Hemd schleift Steine, er trägt keine Schuhe.
+Target : Man with an orange shirt is grinding on stone, he is not wearing shoes.
+Predicted : A in orange orange shirt is grinding on stone, he is not wearing shoes . . . . . . . . .
+
+
+Epoch No 115 completed. Total Training Loss : 25.209352493286133
+
+
+Validation : 
+Starting Epoch No : 115
+Sample Output After Epoch No : 115 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Einige Männer blicken auf einen Computerbildschirm in einem Büro.
+Target : Some men are looking at a computer screen in an office.
+Predicted : Some men are looking at from computer screen in an office . film film film film film in film holds film film film film film film film
+
+
+
+2. Source : Ein Mann und eine Frau unterhalten sich, während sie neben einem Baum stehen.
+Target : A man and a woman talk while standing next to a tree.
+Predicted : A man in woman woman are while standing in to start tree . . . . . . . . . . . . . . .
+
+
+Epoch No 115 completed. Total Training Loss : 60.767948150634766
+
+
+Training : 
+Starting Epoch No : 116
+Sample Output After Epoch No : 116 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann mit einer Brille mit roter Fassung steht mit verschränkten Armen hinter einem Metallgitter.
+Target : A man with red - rimmed glasses stands with arms folded behind a metal grate.
+Predicted : A man with red - rimmed glasses stands in arms folded behind a metal grate . trees trees metal metal . . . . . . . .
+
+
+
+2. Source : Ein Junge liegt mit dem Bauch auf einem schwarzen Surfbrett und fährt auf einer Welle.
+Target : A boy on a black surfboard riding the wave on his stomach.
+Predicted : A boy on a black surfboard is on wave on a black . . . . . . . . . . .
+
+
+Epoch No 116 completed. Total Training Loss : 24.928464889526367
+
+
+Validation : 
+Starting Epoch No : 116
+Sample Output After Epoch No : 116 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann mit einem großen Hut im Gebüsch.
+Target : A man with a large hat in the bushes.
+Predicted : A man with a large hat and a bushes plays a large a a
+
+
+
+2. Source : Ein Kind macht einen Rückwärtssalto, während es auf einem Trampolin hüpft.
+Target : A child is doing a back flip whilst jumping on a trampoline.
+Predicted : A child that doing a back a whilst jumping on a backpack . . . . high . . . and . . . . . . high
+
+
+Epoch No 116 completed. Total Training Loss : 43.804927825927734
+
+
+Training : 
+Starting Epoch No : 117
+Sample Output After Epoch No : 117 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein kleiner asiatischer Junge rennt mit einem weiß-grauen Hund über das grüne Gras.
+Target : A young Asian boy running with a white and gray dog on green grass.
+Predicted : A little Asian boy running with a white and gray dog on green grass . over.
+
+
+
+2. Source : Ein Mädchen singt und springt dabei in die Luft.
+Target : A girl is singing while jumping in the air.
+Predicted : A girl is singing in in in the air . . . . .
+
+
+Epoch No 117 completed. Total Training Loss : 24.70412826538086
+
+
+Validation : 
+Starting Epoch No : 117
+Sample Output After Epoch No : 117 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann telefoniert in einem unaufgeräumten Büro
+Target : A man in a cluttered office is using the telephone
+Predicted : A man in a cluttered office measuring sweeping in telephone . . .
+
+
+
+2. Source : Eine Reinigungskraft ist im Begriff, eine Bahnstation zu wischen.
+Target : A janitor about to mop in a train station.
+Predicted : A janitor about to mop . red train . . . . . . . . . red . . . . . . . . . .
+
+
+Epoch No 117 completed. Total Training Loss : 47.888919830322266
+
+
+Training : 
+Starting Epoch No : 118
+Sample Output After Epoch No : 118 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Viele weiße Menschen stehen hinter Fahnen und einem Banner neben großen grauen Gebäuden.
+Target : Many white people standing behind flags and a banner, next to big gray buildings.
+Predicted : Many white people are behind flags, a banner, next to big gray buildings . . colored . . . . . .
+
+
+
+2. Source : Ein Junge in blauem Trägerhemd spielt mit einem Fuß in der Luft auf einer Bassgitarre.
+Target : A boy in a blue tank top is playing the bass guitar with one foot in the air.
+Predicted : A boy in a blue tank top is playing the bass guitar in a foot in the air . . . . . . .
+
+
+Epoch No 118 completed. Total Training Loss : 24.398880004882812
+
+
+Validation : 
+Starting Epoch No : 118
+Sample Output After Epoch No : 118 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Frau sitzt an einer dunklen Bar.
+Target : A woman sits at a dark bar.
+Predicted : A woman using's a doorbell bar . . . . . man man man man man man man man man man . man man man man man man man
+
+
+
+2. Source : Ein Paar sitzt auf einer Bank und unterhält sich, während im Hintergrund eine Frau einen Hund spazieren führt.
+Target : A couple sits on a bench talking, while a woman walks a dog in the background.
+Predicted : A woman sits on the bench bench on while a woman walks a bench in a background . . . . . . . on . . . . .
+
+
+Epoch No 118 completed. Total Training Loss : 46.452301025390625
+
+
+Training : 
+Starting Epoch No : 119
+Sample Output After Epoch No : 119 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Mehrere Menschen spielen in einem Raum gemeinsam auf Instrumenten.
+Target : Several people playing instruments in a room together.
+Predicted : Several people are around in a room together . . room . . room
+
+
+
+2. Source : Ein Mann in einer Jeans und einem T-Shirt lädt etwas in einen Anhänger ein.
+Target : A man in jeans and a t - shirt loading something into a trailer.
+Predicted : A man in jeans and a t - shirt loading something into a trailer . . . . . . . . . . . . . . .
+
+
+Epoch No 119 completed. Total Training Loss : 24.167593002319336
+
+
+Validation : 
+Starting Epoch No : 119
+Sample Output After Epoch No : 119 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine dunkelhaarige Frau mit einer blauen Bluse und Sonnenbrille hält ein Spruchband, während ein junges Mädchen mit geflochtenem Haar auf das Spruchband schreibt.
+Target : A dark - haired woman wearing a blue blouse and sunglasses holds a banner while a young girl with braided hair writes on the banner.
+Predicted : A dark - haired woman in blue blue blouse and girl holds cotton banner . a young girl with braided hair writes . banner . . . .
+
+
+
+2. Source : Ein Mann mit schwarzer Jacke und schwarzer Mütze spielt auf einer Trompete.
+Target : One man in a black jacket and black hat is playing a trumpet.
+Predicted : A man in a black jacket Beach black hat, playing a trumpet . . . . . . . . . . . . . . . . .
+
+
+Epoch No 119 completed. Total Training Loss : 54.35875701904297
+
+
+Training : 
+Starting Epoch No : 120
+Sample Output After Epoch No : 120 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Wand mit Schriftzügen von aufgebrachten Demonstranten in einer großen Stadt.
+Target : A wall with writings from angry protesters in a big city.
+Predicted : A wall with preparing from her protesters in a big city . . . . parking.
+
+
+
+2. Source : Zwei uniformierte Männer fahren in einem Motorboot.
+Target : Two uniformed men are riding in a motorized boat.
+Predicted : Two uniformed men are riding in a motorized boat . . . .
+
+
+Epoch No 120 completed. Total Training Loss : 24.31439781188965
+
+
+Validation : 
+Starting Epoch No : 120
+Sample Output After Epoch No : 120 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann singt in ein Mikrofon, während seine Band spielt.
+Target : A man is singing into a microphone while his band plays.
+Predicted : A man and singing into a microphone while a band at in on on on on on on on on on on on on on on . on on
+
+
+
+2. Source : Die Nahaufnahme des Gesichts eines Kindes, das einen blauen, herzförmigen Lutscher isst.
+Target : A closeup of a child's face eating a blue, heart shaped lollipop.
+Predicted : A crates of a child's and, a blue, heart shaped lollipop . . . . . . . . . . . . . . . . holds
+
+
+Epoch No 120 completed. Total Training Loss : 44.62583923339844
+
+
+Training : 
+Starting Epoch No : 121
+Sample Output After Epoch No : 121 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Fünf asiatische Menschen sitzen um einen runden Tisch herum.
+Target : Five Asian people sitting around a round table.
+Predicted : Five Asian people sitting around a round table . . . .
+
+
+
+2. Source : Ein Mann mit Sonnenbrille und Lederjacke, der nach unten blickt.
+Target : Man in sunglasses and leather jacket looking down
+Predicted : A in sunglasses and leather jacket looking down . . . . . . . . . . .
+
+
+Epoch No 121 completed. Total Training Loss : 23.831918716430664
+
+
+Validation : 
+Starting Epoch No : 121
+Sample Output After Epoch No : 121 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein kleiner Junge und ein Mädchen lachen miteinander, während das Mädchen ein Handzeichen macht.
+Target : A young boy and girl are laughing together as the girl holds up a hand sign.
+Predicted : A young boy and girl as laughing together as black girl holds . . hand . . . . . . . . . . . . . . . .
+
+
+
+2. Source : Ein Boot mit Menschen und ihrem Hab und Gut befindet sich im Wasser.
+Target : A boat with people and their belongings is in the water.
+Predicted : A boat with people small their belongings . at front water . . . . . . . . . . . . . . . . . . . .
+
+
+Epoch No 121 completed. Total Training Loss : 53.280948638916016
+
+
+Training : 
+Starting Epoch No : 122
+Sample Output After Epoch No : 122 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Snowboardfahrer in Orange und Blau steht auf einem blauen Tisch in einem Skigebiet.
+Target : A male snowboarder wearing orange and blue standing atop a blue table at a ski resort.
+Predicted : A male snowboarder in orange and blue standing atop a blue table at a ski resort . . . . . . . . . . . . . .
+
+
+
+2. Source : Ein begeisterter Alpinist sieht einen Pfad hinunter.
+Target : An alpine enthusiast is looking down a trail.
+Predicted : An alpine enthusiast is looking down a trail . . .
+
+
+Epoch No 122 completed. Total Training Loss : 24.159427642822266
+
+
+Validation : 
+Starting Epoch No : 122
+Sample Output After Epoch No : 122 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann mit orangen Hosen hält ein Seil auf einem Boot.
+Target : A man on a boat wearing orange pants holding a rope.
+Predicted : A man in a boat wearing a pants holding a rope a on on on on on on on on on on on on on on on
+
+
+
+2. Source : Ein Junge in einem schwarzen T-Shirt trägt einen blauen Eimer und geht neben weiß gekleideten Männern.
+Target : A boy in a black shirt carries a blue bucket while walking with men dressed in white.
+Predicted : A boy in a black shirt is a blue bucket while a with a in in a a . . . . . . younger race race younger younger
+
+
+Epoch No 122 completed. Total Training Loss : 38.80944061279297
+
+
+Training : 
+Starting Epoch No : 123
+Sample Output After Epoch No : 123 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei als Meerjungfrau und als Fee verkleidete Frauen verteilen Broschüren.
+Target : Two women in costume, one dressed as a mermaid, the other as a fairy, are handing out brochures.
+Predicted : Two women in costume, one dressed as a mermaid, the other as a mermaid, are handing out brochures . . .
+
+
+
+2. Source : Ein schwarzer Hund mit Halsband springt mit einem Stock im Maul nach oben.
+Target : Black dog with collar jumping up with a stick in his mouth
+Predicted : A dog with collar jumping up to a stick in his mouth . . . . . . . . . . . .
+
+
+Epoch No 123 completed. Total Training Loss : 23.56903839111328
+
+
+Validation : 
+Starting Epoch No : 123
+Sample Output After Epoch No : 123 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei junge Mädchen spielen Basketball, wobei die eine in Weiß einen Korbleger versucht und die andere in Rot verteidigt.
+Target : Two young girls playing basketball, one in white attempting a layup while the other in red defends.
+Predicted : Two young girls playing basketball, one in white attempting to layup spotted the other in red defends . 3 look power seated son seated watch power power son seated power son power power seated
+
+
+
+2. Source : Ein Junge und ein Mädchen in schwarzen Overalls stehen einem Mädchen in einer pinkfarbenen Jacke gegenüber, während sich im Hintergrund Erwachsene befinden.
+Target : A boy and girl in black jumpsuits stand facing a girl in a pink jacket, with adults in the background.
+Predicted : A boy with girl in black jumpsuits stand facing each girl in the busy jacket . with adults . the background . . . . . . . . . . . . .
+
+
+Epoch No 123 completed. Total Training Loss : 46.280555725097656
+
+
+Training : 
+Starting Epoch No : 124
+Sample Output After Epoch No : 124 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann mit Brille benutzt einen Spachtel um einen Hamburger vom Grill zu heben.
+Target : A man wearing glasses using a spatula to lift a hamburger off barbecue grill.
+Predicted : A man with glasses using a spatula to lift a hamburger off barbecue grill . it . grill . for table it . grill grill
+
+
+
+2. Source : Neun Tänzerinnen tragen Röckchen und verwenden auf der Bühne Gitarren aus dem Spiel „ Guitar Hero “ als Requisiten.
+Target : Nine female dancers wear tutus and use " Guitar Hero " guitars as a prop on stage.
+Predicted : Nine female dancers wear tutus and use " Guitar Hero " Guitar as a guitars on stage . . . . . light . "
+
+
+Epoch No 124 completed. Total Training Loss : 23.524229049682617
+
+
+Validation : 
+Starting Epoch No : 124
+Sample Output After Epoch No : 124 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann starrt ein vorbeigehendes Paar an, während er den Häuserblock entlanggeht.
+Target : A man stare at a passing couple while walking down the block.
+Predicted : A man in at a passing couple while the on the block . . . . . . . . . . . . . . . . . .
+
+
+
+2. Source : Zwei Männer, einer in Blau und der andere in Rot, treten in einem Boxkampf gegeneinander an.
+Target : Two men, one in blue and one in red, compete in a boxing match.
+Predicted : Two men, one in blue and one in a and compete in a boxing match in look . watch look look look look watch . watch watch look watch
+
+
+Epoch No 124 completed. Total Training Loss : 41.15853500366211
+
+
+Training : 
+Starting Epoch No : 125
+Sample Output After Epoch No : 125 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Wanderer erklimmen einen Pfad in den Bergen.
+Target : Hikers climbing a trail in the mountains.
+Predicted : Hikers climbing a trail in the mountains . . . . .
+
+
+
+2. Source : Teilnehmer an einem Rennen, zwei von ihnen tragen farbenfrohen indianischen Kopfschmuck.
+Target : People running in a race, two of them are wearing brightly colored Indian headdresses.
+Predicted : People running in a race, two of them, wearing colorful colored Indian headdresses . . . . . . . . . . . .
+
+
+Epoch No 125 completed. Total Training Loss : 23.24052619934082
+
+
+Validation : 
+Starting Epoch No : 125
+Sample Output After Epoch No : 125 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Lynyrd Skynyrd tritt bei einem Konzert auf.
+Target : Lynyrd Skynyrd is performing at a concert.
+Predicted : Lynyrd Skynyrd is performing at a concert . . man man man man . . man man . . man . man . man man.
+
+
+
+2. Source : Ein Mann sitzt mit einem Bier in der Hand auf einem Stuhl und brät an einem Holzstab etwas zu essen.
+Target : A man sitting on a chair with a beer in his hands roasting something to eat on a wooden stick.
+Predicted : A man sitting on a chair with his beer in an hands roasting something . eat on wooden stick . race . . short . race . . . . . .
+
+
+Epoch No 125 completed. Total Training Loss : 46.89519500732422
+
+
+Training : 
+Starting Epoch No : 126
+Sample Output After Epoch No : 126 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann legt seine Füße auf den Schreibtisch.
+Target : Man puts his feet up on a desk.
+Predicted : A puts his foot up on a desk . . .
+
+
+
+2. Source : Eine Dame richtet die Haare einer anderen Dame.
+Target : A lady is fixing another lady's hair.
+Predicted : A lady is fixing another lady's hair . . . . .
+
+
+Epoch No 126 completed. Total Training Loss : 23.279621124267578
+
+
+Validation : 
+Starting Epoch No : 126
+Sample Output After Epoch No : 126 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Person in einem lilafarbenen Oberteil malt ein Bild von einer Frau auf eine weiße Wand.
+Target : A person with a purple shirt is painting an image of a woman on a white wall.
+Predicted : A person with a purple shirt and painting a image of a woman on a wall wall . . . . . . . . . . . . . . . . .
+
+
+
+2. Source : Ein Golden Labrador schwimmt mit einem roten Spielzeug im Maul durch das Wasser.
+Target : A Golden Labrador is swimming through water with a red toy in its mouth.
+Predicted : A Golden Labrador is swimming in a with a red toy in the mouth . . . . . . . . . . . . . . . . . . . .
+
+
+Epoch No 126 completed. Total Training Loss : 38.89280319213867
+
+
+Training : 
+Starting Epoch No : 127
+Sample Output After Epoch No : 127 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Gruppe Feuerwehrleute sind auf der Straße versammelt.
+Target : A group of firefighters are gathered in the street.
+Predicted : A group of firefighters are gathered in the street . . . .
+
+
+
+2. Source : Mann in Geschäftskleidung springt von der Seite eines Gebäudes.
+Target : Man in business attire jumping off the side of a building.
+Predicted : Man in business attire jumping off the side of a building . . .
+
+
+Epoch No 127 completed. Total Training Loss : 22.894561767578125
+
+
+Validation : 
+Starting Epoch No : 127
+Sample Output After Epoch No : 127 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Frau in Gelb mit einem Kinderwagen und ein Mann mit blauem Hemd und Rucksack gehen durch ein belebtes Stadtquartier.
+Target : A woman in yellow with a stroller, and a man in a blue shirt with a backpack are walking on a busy city block.
+Predicted : A woman is yellow is outdoors stroller, and black man his blue shirt is adults backpack are walking is the busy city block . hold . . motorcycle
+
+
+
+2. Source : Ein Mann in einem roten T-Shirt steht mit zwei Mädchen vor einem alten Bauwerk.
+Target : A man in a red shirt is standing with two fitls in front of an old structure.
+Predicted : A man moving a red shirt is lying with two fitls in front of an old structure . look look . . look look look . . look look look
+
+
+Epoch No 127 completed. Total Training Loss : 44.615501403808594
+
+
+Training : 
+Starting Epoch No : 128
+Sample Output After Epoch No : 128 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine in Schwarz und Gold gekleidete Frau, die zur Seite blickt.
+Target : A woman wearing black and gold looking to her side.
+Predicted : A woman in black and gold looking to her side . while . the
+
+
+
+2. Source : Eine Gruppe junger Leute stehen und sitzen um einen Tisch herum und essen und trinken miteinander.
+Target : A group of young people are standing and sitting around a table eating and drinking with one another.
+Predicted : A group of young people are standing around sitting around a table eating food having with one another . . . . . . . . . .
+
+
+Epoch No 128 completed. Total Training Loss : 22.348617553710938
+
+
+Validation : 
+Starting Epoch No : 128
+Sample Output After Epoch No : 128 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann mit Rastalocken verstopft sein Ohr, um ein Telefongespräch hören zu können.
+Target : A man with dreadlocks is plugging his ear to hear a phone call.
+Predicted : A man with dreadlocks is plugging his ear to hear a phone call . . . . . . . . . . . .
+
+
+
+2. Source : Die Skier befinden sich vor der Hütte.
+Target : The skiers are in front of the lodge.
+Predicted : The skiers are in the the the lodge . . . . . man . . . . . man man . . . .
+
+
+Epoch No 128 completed. Total Training Loss : 39.92570495605469
+
+
+Training : 
+Starting Epoch No : 129
+Sample Output After Epoch No : 129 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Frau in einem leuchtend pinken Rock mit einem Korb auf dem Rücken geht einen mit Kopfsteinen gepflasterten Weg hoch.
+Target : A woman in a bright pink skirt carrying a basket on her back, walking up a cobblestone path.
+Predicted : A woman in a bright pink skirt with a basket on her back is walking up a cobblestone path . . . . . .
+
+
+
+2. Source : Drei Frauen gehen einen Bürgersteig in der Nähe eines Bistros herunter.
+Target : Three women walking down a sidewalk near a bistro.
+Predicted : Three women walking down a sidewalk near a bistro . . . . . . . . . . . . . . .
+
+
+Epoch No 129 completed. Total Training Loss : 22.085432052612305
+
+
+Validation : 
+Starting Epoch No : 129
+Sample Output After Epoch No : 129 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Gruppe von Menschen in blauen T-Shirts bei einer Sportveranstaltung.
+Target : A group of people in blue shirts at a sporting event.
+Predicted : A group of people in blue shirts at a sporting event . in full in in in full in in man at in in full in in at full full
+
+
+
+2. Source : Die Mitglieder einer Radsport-Mannschaft machen sich für ein Rennen bereit.
+Target : A crew of cycling member getting ready for a race.
+Predicted : The crew of cycling member getting ready for a race . competition snowfalls dog snowfalls dog dog shirts man man man dog dog dog dog dog large man shirts large
+
+
+Epoch No 129 completed. Total Training Loss : 43.86394500732422
+
+
+Training : 
+Starting Epoch No : 130
+Sample Output After Epoch No : 130 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Die schwarze Mannschaft ist dabei, die Meisterschaft an die blaue Mannschaft zu verlieren.
+Target : The black team is about to lose the championship against the blue team.
+Predicted : The black team is about to red the front against the blue team . . . . . . .
+
+
+
+2. Source : Eine Ansicht von Leuten, die sich in einem Ladengang umschauen.
+Target : A view of people browsing a store aisle.
+Predicted : A view of a shop a store aisle . . . .
+
+
+Epoch No 130 completed. Total Training Loss : 21.9859619140625
+
+
+Validation : 
+Starting Epoch No : 130
+Sample Output After Epoch No : 130 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Mehrere Männer stehen auf einem Festwagen, der durch eine Straße voll mit Menschen fährt.
+Target : Several men standing on a parade float traveling through a street crowded with people.
+Predicted : Several men standing on a parade float traveling through a street crowded with people . look look look look look look look look look look look look look
+
+
+
+2. Source : Ein Golden Labrador schwimmt mit einem roten Spielzeug im Maul durch das Wasser.
+Target : A Golden Labrador is swimming through water with a red toy in its mouth.
+Predicted : A Golden Labrador is swimming through a with a red toy in the mouth . . . . . . . . . . . . . .
+
+
+Epoch No 130 completed. Total Training Loss : 36.780941009521484
+
+
+Training : 
+Starting Epoch No : 131
+Sample Output After Epoch No : 131 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann legt seine Füße auf den Schreibtisch.
+Target : Man puts his feet up on a desk.
+Predicted : A puts his feet on on a desk . . .
+
+
+
+2. Source : Das Stadion ist gefüllt mit Zuschauern, die sich eine Sportveranstaltung angucken.
+Target : The stadium is filled with spectators viewing a sporting event.
+Predicted : The stadium filled filled with spectators viewing a sporting event . . . as
+
+
+Epoch No 131 completed. Total Training Loss : 22.078563690185547
+
+
+Validation : 
+Starting Epoch No : 131
+Sample Output After Epoch No : 131 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann spielt Keyboard und singt in ein Mikrofon.
+Target : A man playing a keyboard and singing into a microphone.
+Predicted : A man and a keyboard and singing into a microphone . outside.
+
+
+
+2. Source : Vier Kinder mit Rucksäcken drehen sich in Richtung der Kamera und lächeln, während sie eine Landstraße entlanggehen.
+Target : Four children carrying backpacks turn to face the camera and smile as they walk down a country road.
+Predicted : Four children carrying backpacks turn to face the camera and smile as they walk down a country . . look look look look look look look look look look look look look
+
+
+Epoch No 131 completed. Total Training Loss : 37.82344436645508
+
+
+Training : 
+Starting Epoch No : 132
+Sample Output After Epoch No : 132 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Zwei kleine Kinder laufen im Wald durch hohes Gras.
+Target : Two small children walking through tall grass in the woods.
+Predicted : Two young children walking through tall grass . the woods . . . . . .
+
+
+
+2. Source : Ein kleines Mädchen spielt mit einem großen weißen Pudel in der Einfahrt neben einem Polizeiauto.
+Target : A little girl is playing with a large, white poodle in the driveway next to a police car.
+Predicted : A little girl is playing with a large, white poodle in the driveway next to a police car . car . . car car car car . . . car car car
+
+
+Epoch No 132 completed. Total Training Loss : 21.78127670288086
+
+
+Validation : 
+Starting Epoch No : 132
+Sample Output After Epoch No : 132 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Person mit neonpinkfarbenem Haar und gelbem T-Shirt blickt über einen Strand.
+Target : A person with neon pink hair and yellow shirt is looking out across a beach.
+Predicted : A person with neon pink hair backpack yellow as is looking out across the beach . . . look look . look look look look.
+
+
+
+2. Source : Eine Frau bereitet die Zutaten für einen Suppentopf vor.
+Target : A woman prepares ingredients for a bowl of soup.
+Predicted : A woman prepares ingredients for a bowl of a . at at at at at of at at at . . life at life at at
+
+
+Epoch No 132 completed. Total Training Loss : 35.73373794555664
+
+
+Training : 
+Starting Epoch No : 133
+Sample Output After Epoch No : 133 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein mageres Mädchen mit großen Stiefeln steht am Straßenrand.
+Target : A skinny girl in large boots is standing by the roadside.
+Predicted : A skinny girl in large boots is standing by the roadside . . . . . the . . . .
+
+
+
+2. Source : Ein brauner Hund spielt mit einem flauschigen weißen Plüschtier.
+Target : A brown dog is playing with a white fluffy stuffed animal.
+Predicted : A brown dog plays playing with a white stuffed stuffed animal . . . .
+
+
+Epoch No 133 completed. Total Training Loss : 21.656335830688477
+
+
+Validation : 
+Starting Epoch No : 133
+Sample Output After Epoch No : 133 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann in einer grauen Jacke transportiert Laub auf einem Fahrrad.
+Target : A man on a bike in a gray jacket carries foliage.
+Predicted : A man with a gray in a gray jacket carries foliage . . . . .
+
+
+
+2. Source : Mann mit blauem Helm fädelt sich auf einem Fahrrad in den Verkehr ein.
+Target : Man wearing blue helmet merges into traffic on a bicycle.
+Predicted : Man wearing blue helmet merges into traffic on a bicycle . high high high high . . . . . . . . . .
+
+
+Epoch No 133 completed. Total Training Loss : 41.77701187133789
+
+
+Training : 
+Starting Epoch No : 134
+Sample Output After Epoch No : 134 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Metzger schneidet Fleisch auf dem Ladentisch.
+Target : A butcher is slicing meat in a store on the counter.
+Predicted : A butcher cutting cutting meat in a store on the store . . .
+
+
+
+2. Source : Ein Mann geht mit einer Sonnenbrille oben auf dem Kopf die Straße entlang.
+Target : A man is walking in the street with sunglasses on top of his head.
+Predicted : A man with walking in the street with sunglasses on his of a head . . . . . . . . . . . . . .
+
+
+Epoch No 134 completed. Total Training Loss : 21.11435317993164
+
+
+Validation : 
+Starting Epoch No : 134
+Sample Output After Epoch No : 134 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann mit orangen Hosen hält ein Seil auf einem Boot.
+Target : A man on a boat wearing orange pants holding a rope.
+Predicted : A man in a boat wearing a pants is a rope . on high high high . . . . high . . . . . high.
+
+
+
+2. Source : Der FedEx-Fahrer hört dem Arbeiter mit dem grünen Schutzhelm zu, während die zu versendende Ausrüstung eingeladen wird.
+Target : The FedEx driver listens to the workman in the green hard hat while the equipment to ship is being loaded.
+Predicted : The FedEx driver listens to the workman in the green the of while the equipment to ship is being loaded . look look son hold hold look look look hold look
+
+
+Epoch No 134 completed. Total Training Loss : 33.889869689941406
+
+
+Training : 
+Starting Epoch No : 135
+Sample Output After Epoch No : 135 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein älterer Mann und ein jüngerer Mann tragen Jacken.
+Target : An older man and a younger man are wearing jackets.
+Predicted : An older man and a younger man are wearing jackets . a.
+
+
+
+2. Source : Ein kleiner Junge scheint Metall auf einem Amboss zu hämmern.
+Target : A young boy appears to be hammering metal on top of an anvil.
+Predicted : A young boy appears to be hammering metal on top of a iron . . . . . . . . . . . . . . . . .
+
+
+Epoch No 135 completed. Total Training Loss : 21.0496826171875
+
+
+Validation : 
+Starting Epoch No : 135
+Sample Output After Epoch No : 135 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Eine Gruppe von Menschen an einem kleinen Fluss inmitten einer Stadt.
+Target : A group of people are near a small river in the middle of a city.
+Predicted : A group of people running near a small river in the middle of sharing city . . . . . . . . . . .
+
+
+
+2. Source : Ein junger Mann in einem grünen Sweatshirt liest eine Zeitung am Strand.
+Target : A young man in a green sweatshirt reads a newspaper on the beach.
+Predicted : A young man wearing a green sweatshirt reads a newspaper on the beach . . . . . . . . . . . . .
+
+
+Epoch No 135 completed. Total Training Loss : 39.75743865966797
+
+
+Training : 
+Starting Epoch No : 136
+Sample Output After Epoch No : 136 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann in einem lilafarbenen Hemd spielt Schlagzeug vor einer Menschenmenge.
+Target : A man in a purple shirt playing a drum in front of a crowd of people.
+Predicted : A man in a purple shirt is a drum in front of a crowd of people . . . . . . . . . . .
+
+
+
+2. Source : Leute laufen mit Schirmen die Straße entlang.
+Target : People walking along the street with umbrellas.
+Predicted : People with down the street with umbrellas . . . . . . the.
+
+
+Epoch No 136 completed. Total Training Loss : 20.926042556762695
+
+
+Validation : 
+Starting Epoch No : 136
+Sample Output After Epoch No : 136 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann fotografiert einen See mit Bergen im Hintergrund.
+Target : A man takes a photograph of a lake with mountains in the background.
+Predicted : A man and a photograph of a lake with mountains in the background . over over over over over over . . . . over over over over over over
+
+
+
+2. Source : Eine vierköpfige Band hat einen Auftritt.
+Target : A band of four playing a gig.
+Predicted : A band of four playing a gig . . . . . . . .
+
+
+Epoch No 136 completed. Total Training Loss : 37.139427185058594
+
+
+Training : 
+Starting Epoch No : 137
+Sample Output After Epoch No : 137 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Hunde laufen im Wasser.
+Target : The dogs are running in the water.
+Predicted : The dog are running in the water . . . .
+
+
+
+2. Source : Eine Frau in einer schwarzen Jacke lehnt sich an einen Lampenmast.
+Target : A woman in a black jacket is leaning against a lamp post.
+Predicted : A woman in a black jacket is leaning against a lamp post . . . . .
+
+
+Epoch No 137 completed. Total Training Loss : 20.87405776977539
+
+
+Validation : 
+Starting Epoch No : 137
+Sample Output After Epoch No : 137 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Mann boxt
+Target : A man practices boxing
+Predicted : A man boxing cotton cotton onto cotton green . . .
+
+
+
+2. Source : Eine Gruppe spielt vor einer Menschenmenge Musik auf einer Bühne.
+Target : A group is playing music on stage in front of a crowd of people.
+Predicted : A group trick playing music in stage . front of a crowd of people . look man . look's man man look of man man man man man man man man
+
+
+Epoch No 137 completed. Total Training Loss : 43.24240493774414
+
+
+Training : 
+Starting Epoch No : 138
+Sample Output After Epoch No : 138 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Ein Hund rennt am Strand.
+Target : A dog running on the beach
+Predicted : A dog running on a beach . . . . . . . . . . . .
+
+
+
+2. Source : Drei Fußballspieler kämpfen um den Ballbesitz.
+Target : Three soccer players are battling for possession of the ball.
+Predicted : Three soccer players are tackling for the of the soccer . . the.
+
+
+Epoch No 138 completed. Total Training Loss : 20.466991424560547
+
+
+Validation : 
+Starting Epoch No : 138
+Sample Output After Epoch No : 138 	 BLEU-score : 
+
+
+The Random 2 triplets are : 
+
+1. Source : Die Frau hält eine Geige.
+Target : The woman is holding a violin.
+Predicted : The woman is holding a violin . . . . a a a a a . outside a . a a a a a a a a a a a a
+
+
+
+2. Source : Vier Kinder mit Rucksäcken drehen sich in Richtung der Kamera und lächeln, während sie eine Landstraße entlanggehen.
+Target : Four children carrying backpacks turn to face the camera and smile as they walk down a country road.
+Predicted : Four men jumping a turn smile face while camera and smile as they walk by a street road . hold hold hold hold hold hold hold hold look hold hold hold
+
+
+Epoch No 138 completed. Total Training Loss : 33.28336715698242
+
+
+Training : 
+Starting Epoch No : 139
